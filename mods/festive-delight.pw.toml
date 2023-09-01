@@ -1,0 +1,13 @@
+name = "Festive Delight [Forge + Fabric]"
+filename = "Festive_Delight_1.1_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0680994d616decb965d4e66a3426be0e79851e19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4707744
+project-id = 711672
