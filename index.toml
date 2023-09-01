@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "2cb51a35c29a449486c5119836823cc5c2c513099a38183eb4c1f2898917f3eb"
