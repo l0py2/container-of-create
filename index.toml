@@ -25,18 +25,23 @@ hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "dab6770814c6f3d96808d78092001eb0e6c94a6f6560fc6c8e99c888b6736652"
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "c8e7c5ac6a6ff113e87d004e59406a05d5571a85e17f0972b324f54f7b3f3ef2"
 metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "d08052537a462b55988c05615626eb7ad3b59262a7f62fd4e08e774b8d45ebe7"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8bd9c4362f4cd5a47f1b4dce7003d81bc176ec609683f209ea4d05909b7887e4"
 metafile = true
 
 [[files]]
@@ -47,11 +52,6 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "2c3ddac643593c3dec5bdad4a4ee6d10b62430409ee1c558ce3c5cbed9f40700"
 metafile = true
 
 [[files]]
@@ -90,16 +90,6 @@ hash = "0d6de7ecb85239db1fbd8ba1593d6ebe824a7141b93d99a2889843118c14da4a"
 metafile = true
 
 [[files]]
-file = "mods/create-central-kitchen.pw.toml"
-hash = "911587b346ce501da20f4273e2cb1eba3a57ec99adf7adc8559a1686ce1ff59e"
-metafile = true
-
-[[files]]
-file = "mods/create-chunkloading.pw.toml"
-hash = "dc75cafc8c3f01ae11ec938ff44ca39e898d8667f0467a9fdfe80d2750c41c4d"
-metafile = true
-
-[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "46c8cc73b106105ec803b03a21e9638d7a4843214916d2fbd303359e0cb65646"
 metafile = true
@@ -120,18 +110,8 @@ hash = "3bdf68a82b402f0aa6bcbd128de8fcd09a5ab5e0164286d7dae43b6490b4cf7d"
 metafile = true
 
 [[files]]
-file = "mods/create-factory.pw.toml"
-hash = "e0b11f720b84ea86bdcd06aa8fc6a31b651f704abcefd3992f55eeb77e5caa47"
-metafile = true
-
-[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "77fa72a0d31e0d5bbd4fb7a95d00300f7d654bedf9a42e0e665e17dd937d764c"
-metafile = true
-
-[[files]]
-file = "mods/create-ore-excavation.pw.toml"
-hash = "51adae14e945c055ab0c8a6f96ad9bd5002ae96f7cbf49e9d7d8a25dc3f11c03"
 metafile = true
 
 [[files]]
@@ -152,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "121bfb7dba38eff5de393befb8a4cebcce60b3425fc41d2aa9d7cfe3b3bdd3b5"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "9b6eba81b6899e5b6961cdb6533a8dc9844baf91671048b0313fb1deb0c525c5"
 metafile = true
 
 [[files]]
@@ -195,23 +180,8 @@ hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
 metafile = true
 
 [[files]]
-file = "mods/fastfurnace.pw.toml"
-hash = "e001ea41a138e42e5523e69b13523c1ebf76a1633320b3a7942b4eef76d36861"
-metafile = true
-
-[[files]]
 file = "mods/fastload.pw.toml"
 hash = "534a07d970cbf69e74b872218550a94fe062060e3e2c001b2c37d7c973787a07"
-metafile = true
-
-[[files]]
-file = "mods/fastsuite.pw.toml"
-hash = "6ec4fcec4795f75ffdb7333316b4a40acb97bd4e5560d0ea437d477358b10d87"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "fb43a2bb5fc3c56a05fc8ae902610e5f7ab46f62e58d50b1ec34390ce5698335"
 metafile = true
 
 [[files]]
@@ -230,6 +200,11 @@ hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "647c0da6bb3b4f4893988808da806dbf91f9ca63d6a1ac9b16aeb7e087a38c91"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "f41cbd4e04d52ac715dc243fe0cd0df327de89a155d5c2145aa26ba7667d43c8"
 metafile = true
@@ -242,11 +217,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "34beff832b98f209ac50078a6901688c2f1318739c3ebb242ee31d00e2409d3a"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "aa19f1e147d97a697e4fb84f061db2ad6735ecca27d29ed6c233f8384449c9ee"
 metafile = true
 
 [[files]]
@@ -267,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "000aabd54b24f928786fecd1137e1743d5051e7a81d33c9faa37c1123ea9114c"
+metafile = true
+
+[[files]]
+file = "mods/more-minecarts.pw.toml"
+hash = "a6a0ba6205d7b957dca0b506c2e2c707cec49e5edf2b6003526ec07d9b39a4f2"
 metafile = true
 
 [[files]]
@@ -295,13 +270,28 @@ hash = "25b1c1ccd0ffd18bdd0ad163b8db0236717141dae5e57dba8e8fcf4aa83d3a1b"
 metafile = true
 
 [[files]]
-file = "mods/placebo.pw.toml"
-hash = "306cbb32a5e21015ea1e6e79f2175bff33213abd18af4403e4b9bc72adf4e28d"
+file = "mods/polymorph.pw.toml"
+hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
 metafile = true
 
 [[files]]
-file = "mods/polymorph.pw.toml"
-hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
+file = "mods/quark-oddities.pw.toml"
+hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "feeee060f81012d4a69bb47e6d50886182cc28370978e1b5edab645213a0ed96"
+metafile = true
+
+[[files]]
+file = "mods/radon.pw.toml"
+hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "72f912e9893c002b994da409e5114078180139bfea729785859b1887ba5de3fe"
 metafile = true
 
 [[files]]
@@ -340,11 +330,6 @@ hash = "c821058a680c8b5a0cdaa5fcd2f3c0824c1adbe424f13021e08190d26c7d6c3a"
 metafile = true
 
 [[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a6b779b19fdc89e36439ddaf01be97ab2d6c1deb9229e104c581a575ebf1fa89"
 metafile = true
@@ -357,4 +342,34 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "ce553d5730bb38c3d66db2c3e9e312aa5abd45b5cab37fd7a9b759fe8ac97883"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-core.pw.toml"
+hash = "bf7f8e3dc9471d9c7c73f44a4a4d11d8fab9f28b6d528694aaf92c5bb06ed052"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite-ultimerite.pw.toml"
+hash = "3d3c752e36c0c5f120a50273bf373242230b25fb46eeb6670139e3fc52af36b9"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite.pw.toml"
+hash = "b6839ff9274c1c1187f76b2000922defa6e95e3e69d3d79f5ef0eddca86cc582"
+metafile = true
+
+[[files]]
+file = "mods/vertical-slabs-compat.pw.toml"
+hash = "7ecd2833daab34c090ad5754b2c55923dd086367b4fdeb1117c9f9c5fe785a30"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "748d652b531eae59713104ae5b6275618ee0f94818b9aa22140a248f8b07c268"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8fdd8474322a7b956e1afba42ccb3b6e3ac4c114ee8a5b2175df40cd60a87e4b"
 metafile = true
