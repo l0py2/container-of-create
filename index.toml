@@ -155,6 +155,11 @@ hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "d49b20d6841ee811b7f7cef4aae51dfa6b52c37f1fca15823699f45900152966"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "e1181ed68fea5443f8c64452180aa1e96736155434d1cba3f485d6c800e6ba97"
 metafile = true
