@@ -25,6 +25,11 @@ hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "48a1be62231995c1870fd839f9262470235e1c52f8ba07b36daceee50e8580d4"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
@@ -80,6 +85,11 @@ hash = "b1765161b1cccabdaf8966d0b89ffed0a1c57c6b9c9bc0f57e90c993d5b7b508"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "911587b346ce501da20f4273e2cb1eba3a57ec99adf7adc8559a1686ce1ff59e"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "46c8cc73b106105ec803b03a21e9638d7a4843214916d2fbd303359e0cb65646"
 metafile = true
@@ -101,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-misc-and-things.pw.toml"
-hash = "77fa72a0d31e0d5bbd4fb7a95d00300f7d654bedf9a42e0e665e17dd937d764c"
+hash = "b66c36029c70bf52a59496a471bfd238b4c0a55eb08a86461a71b5142e490753"
 metafile = true
 
 [[files]]
@@ -142,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+metafile = true
+
+[[files]]
+file = "mods/delightful.pw.toml"
+hash = "b97731a574e39e3d5b968f31eda09411c55d423377c46a49bd0a8ddebebf61b4"
 metafile = true
 
 [[files]]
@@ -305,23 +320,28 @@ hash = "ec19ef2adf6994632d4fc25b6ed1a2ad1a0c996aa364b78d5aba1bd7b5d74f2e"
 metafile = true
 
 [[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "78449216aeb860682f5919fd5f8bda98a5b19500d8f97bef25838955539ef2ba"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "1000f9959cc5c55b1842228be2717c145fa63925bd9a35213942a5f3857ff91a"
+hash = "3d0969ca93eae141c20b8b36f4361d080792947694ae637c6f491e4ba59616da"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b1661fd8e4bc9a49aa8412a549a2bf36f43803eef3fdac4dbab629ab211ba088"
+hash = "9dfa946fa7c878c945f1d37f4b8131f0cb51e137c23a423be7d804bed9142c01"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "c821058a680c8b5a0cdaa5fcd2f3c0824c1adbe424f13021e08190d26c7d6c3a"
+hash = "cf94347fca5cec8ef64c8a19bd2b9d499c74539d75f291bf51c118eec98d6220"
 metafile = true
 
 [[files]]
