@@ -9,11 +9,6 @@ file = "config/defaultoptions/options.txt"
 hash = "5579c2c91d3a4e6992218bd1d8acee9ef293bdfb324a1078fd89e32f0e247716"
 
 [[files]]
-file = "mods/additional-additions-forge.pw.toml"
-hash = "799a68af763eaffd51771cb3bab81e9f1cfd5f333b0b36f04522ba1bc30fed2d"
-metafile = true
-
-[[files]]
 file = "mods/alexs-delight.pw.toml"
 hash = "516e8eba75da9ad192bf8122c4edaf6bacd5fa90b4f89495e2d261d92851ba29"
 metafile = true
