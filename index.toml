@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions/extra/config/roughlyenoughitems/config.json5"
-hash = "59b771ce2142ee4af7d388b8c559be116f771d97559ce82ef3f50a0a9d1acacc"
-
-[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "5579c2c91d3a4e6992218bd1d8acee9ef293bdfb324a1078fd89e32f0e247716"
 
 [[files]]
-file = "config/openloader/resources/container-of-create-resource-pack.zip"
-hash = "2680195a958f631a10df4c5f9efd4f8b2b86916842b3d3e59952500f0b7909ea"
+file = "config/openloader/resources/container-fo-create-resource-pack.zip"
+hash = "cf9f28de1fb481ae451129cc6e9252d8beab5e0ba97c3b6020999506bfe00f29"
 
 [[files]]
 file = "mods/alexs-delight.pw.toml"
@@ -125,11 +121,6 @@ metafile = true
 [[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "46c8cc73b106105ec803b03a21e9638d7a4843214916d2fbd303359e0cb65646"
-metafile = true
-
-[[files]]
-file = "mods/create-crystal-clear.pw.toml"
-hash = "b8d11969b1c0a76392e33cdb64c75ea35828fb0fae95cf4f5d70db497c2eec23"
 metafile = true
 
 [[files]]
@@ -263,6 +254,11 @@ hash = "ecaf9d20dcc2d5ce0656030a9c51d9e8b37857b5ec8374022aaea52248d68f43"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "34beff832b98f209ac50078a6901688c2f1318739c3ebb242ee31d00e2409d3a"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
@@ -270,16 +266,6 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
-metafile = true
-
-[[files]]
-file = "mods/let-me-despawn.pw.toml"
-hash = "d87302d87af9762233ad3030ff3457e94312b77daab8652129b01029cf1a2b76"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
 metafile = true
 
 [[files]]
@@ -308,11 +294,6 @@ hash = "53937870ad64abbe73a7996263d506ffd6d9f3be5d6961a1ca57a9a0dffe182d"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "e8e0377d44d43a46f80b8cc0cbfeb059504c361d36705cda5a79d6b42c85a0ad"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "25b1c1ccd0ffd18bdd0ad163b8db0236717141dae5e57dba8e8fcf4aa83d3a1b"
 metafile = true
@@ -325,11 +306,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
-metafile = true
-
-[[files]]
-file = "mods/quark-oddities.pw.toml"
-hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
 metafile = true
 
 [[files]]
@@ -348,28 +324,8 @@ hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "0bad0044994c9b5da0f72b9a3be771b7d412096cf77c88c0678b7952147007bf"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "927c7fb3c9425aafa7093f93c4680fb8dbfef30f878d09e23e5f56062e0c8ff4"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "41aa77632a5ed56e02b6c66ecc8c2996d8738e8a6c8acbbdc3973a2547ac570c"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "ec19ef2adf6994632d4fc25b6ed1a2ad1a0c996aa364b78d5aba1bd7b5d74f2e"
-metafile = true
-
-[[files]]
-file = "mods/shutup-experimental-settings.pw.toml"
-hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
 
 [[files]]
@@ -429,10 +385,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "748d652b531eae59713104ae5b6275618ee0f94818b9aa22140a248f8b07c268"
+hash = "69bddc31966c80a127add8052ce73f79bb23189b76c1358d6fb2c25563a52a5f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8fdd8474322a7b956e1afba42ccb3b6e3ac4c114ee8a5b2175df40cd60a87e4b"
+hash = "e30e2bbf49e31c6fba517406c05ebdc4fda10606918d7e9018fdbb09cfdae879"
 metafile = true
