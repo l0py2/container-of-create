@@ -9,6 +9,10 @@ file = "config/defaultoptions/options.txt"
 hash = "5579c2c91d3a4e6992218bd1d8acee9ef293bdfb324a1078fd89e32f0e247716"
 
 [[files]]
+file = "config/openloader/resources/container-of-create-resource-pack.zip"
+hash = "2680195a958f631a10df4c5f9efd4f8b2b86916842b3d3e59952500f0b7909ea"
+
+[[files]]
 file = "mods/alexs-delight.pw.toml"
 hash = "516e8eba75da9ad192bf8122c4edaf6bacd5fa90b4f89495e2d261d92851ba29"
 metafile = true
@@ -311,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "25b1c1ccd0ffd18bdd0ad163b8db0236717141dae5e57dba8e8fcf4aa83d3a1b"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "9c230cfdee2ba357a8201621adbee4b946f75a8e5f3c7d6360f74e6886959be4"
 metafile = true
 
 [[files]]
