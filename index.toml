@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
+hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
 
 [[files]]
@@ -239,8 +239,8 @@ hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "b27bf12601a60d52b032d5c8a63a14c5ec35ddb2e2f9526f389bee34607dd5b6"
+file = "mods/gravestone-mod.pw.toml"
+hash = "a09762f8f867b06b55b564bf8bc570a308c8610890b8680f91a44217c751a0e6"
 metafile = true
 
 [[files]]
