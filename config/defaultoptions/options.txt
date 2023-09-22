@@ -77,10 +77,10 @@ showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:1
 onlyShowSecureChat:false
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.5
+soundCategory_music:0.2
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.1
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
