@@ -1,1 +1,80 @@
 # Container of Create
+
+## Modlist
+
+- 'Dustrial Decor
+- AI Improvements
+- Alex's Delight
+- Alex's Mobs
+- Another Furniture
+- AppleSkin
+- Aquaculture 2
+- Biomes O' Plenty
+- Canary
+- Carry On
+- Catalogue
+- Chipped
+- Clumps
+- CobbleGen (Fabric/Forge)
+- Configured
+- Controlling
+- Corpse
+- Create
+- Create Big Cannons
+- Create Confectionery
+- Create Enchantment Industry
+- Create Slice & Dice
+- Create Stuff & Additions
+- Create: Alloyed
+- Create: Crystal Clear
+- Create: Misc & Things
+- Create: Steam 'n' Rails
+- Creeper Overhaul
+- Cultural Delights
+- Curios API (Forge)
+- Decorative Blocks
+- Default Options
+- End's Delight
+- Every Compat (Wood Good)
+- Farmer's Delight
+- Fast Leaf Decay
+- FastFurnace
+- FastSuite
+- FastWorkbench
+- Fastload
+- FerriteCore (Forge)
+- Forgiving Void
+- Guard Villagers
+- Immersive Aircarft [Fabric/Forge]
+- It Takes a Pillage
+- Jade
+- Jade Addons (Forge)
+- Just Enough Items (JEI)
+- Just Enough Resources (JER)
+- KubeJS
+- KubeJS Create
+- Lazy DataFixerUpper(LazyDFU) [Forge]
+- Ma Enchants
+- Miner's Delight +
+- More Minecarts and Rails
+- Mouse Tweaks
+- Nether's Delight
+- Ocean's Delight
+- Oculus
+- Open Loader
+- Polymorph (Fabric/Forge/Quilt)
+- Ponder for KubeJS
+- Quark
+- Radon
+- Redstone Pen
+- Rotten Creatures
+- Rubidium
+- Sophisticated Backpacks
+- Sophisticated Storage
+- Supplementaries
+- Tom's Simple Storage Mod
+- Upgraded Netherite
+- Upgraded Netherite : Ultimerite
+- Vertical Slabs Compat
+- Xaero's Minimap
+- Xaero's World Map
