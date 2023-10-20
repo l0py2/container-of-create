@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "79aee57c479f7af477eea04c7cb832fe668d5b49040ebf15a0658e1b2884b4b1"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "73927114e77569ce6ca860c9e76dbf42ed96007badf84f602e7637f4bb3aa79c"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "ddd15e31766ac378b3ef8e13886dbb20b4f9b9aeed6171d13e49b3eea4d8c438"
 metafile = true
@@ -527,12 +535,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "59278f4f0b7d2567ba9fa6ed5de34d84bc200ff538d5ee78b30bfb882035c092"
+hash = "4bc45052af6997d245483069aad79225260be1773e6a578643f16773791ecfb3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e30e2bbf49e31c6fba517406c05ebdc4fda10606918d7e9018fdbb09cfdae879"
+hash = "ad2916b2d26a7a3a255e889d0032e5539005dc3ee6abebc46a22f93655f549f8"
 metafile = true
 
 [[files]]
