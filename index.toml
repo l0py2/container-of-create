@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "5de1c8b85b74ef9c2cabda3e70fec7e84c02b745f0036ab747acda9492af89bf"
+hash = "7c94f76f94aa82568527c1593680ca91f379e5554d848ce3201ca3c550fd16ad"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-molten-vents.pw.toml"
-hash = "6fe712cf83cd0bf6fd8404f6945be634f463a05363463d20610e9846cd54afb0"
+hash = "eb534a4ae02e5979ff8a690b15eb38ee3619e5cc21732c79bf9488568d7d957c"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "ecaf9d20dcc2d5ce0656030a9c51d9e8b37857b5ec8374022aaea52248d68f43"
+hash = "7d4ed176565a8ba1d45289734e5aef2343c726c307cf06022ac1b21ebe5a3e2d"
 metafile = true
 
 [[files]]
@@ -366,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/ma-enchants.pw.toml"
 hash = "c997694bdd2af57c008072efa0ea81747768df18bec04a88553d68e6e8b3c42d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "8958d700cb45ca9dab94fe314702e0c548a31b2d5e83711433923a3018ac71a8"
 metafile = true
 
 [[files]]
@@ -430,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "d53eae6147500886e88c6e3e2f05e8c034377554e142d65addf27d36d2ec473e"
+hash = "ff6742aace7a51c492d8ec2025103d4627d2b157efba5902ba8a8f4bb7e6b14c"
 metafile = true
 
 [[files]]
@@ -480,17 +485,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3d0969ca93eae141c20b8b36f4361d080792947694ae637c6f491e4ba59616da"
+hash = "64d6d2b4b9b9960013ee67b62bfee64daec02d957b1689c783a1ea01c24d445a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9dfa946fa7c878c945f1d37f4b8131f0cb51e137c23a423be7d804bed9142c01"
+hash = "6d00f58cff712ec72a8ae7a682faf73777cf9e37c2b73bf0ed57ebe55312da0b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "cf94347fca5cec8ef64c8a19bd2b9d499c74539d75f291bf51c118eec98d6220"
+hash = "f7859e12bbecd89d863f45f43efef9330e21cc1dc62000c0e779753e3043254f"
 metafile = true
 
 [[files]]
@@ -530,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
-hash = "7ecd2833daab34c090ad5754b2c55923dd086367b4fdeb1117c9f9c5fe785a30"
+hash = "0933c751ef107dc173728e8456eca8a03f088e7ccce28233707a37acda8ede5c"
 metafile = true
 
 [[files]]

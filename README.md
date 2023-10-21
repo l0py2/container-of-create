@@ -64,6 +64,7 @@
 - [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
 - [Lazy DataFixerUpper(LazyDFU) [FORGE]](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge)
 - [Ma Enchants](https://www.curseforge.com/minecraft/mc-mods/ma-enchants)
+- [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
 - [Miner's Delight +](https://www.curseforge.com/minecraft/mc-mods/miners-delight-plus)
 - [More Minecarts and Rails](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
