@@ -9,6 +9,10 @@ file = "config/defaultoptions/options.txt"
 hash = "73927114e77569ce6ca860c9e76dbf42ed96007badf84f602e7637f4bb3aa79c"
 
 [[files]]
+file = "config/supplementaries-common.toml"
+hash = "91574215f2c3aed04f27cde345480242113cd5d1b8a0c5ebc47a6b8e99fd8e79"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "ddd15e31766ac378b3ef8e13886dbb20b4f9b9aeed6171d13e49b3eea4d8c438"
 metafile = true
@@ -139,23 +143,8 @@ hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
 
 [[files]]
-file = "mods/corn-delight.pw.toml"
-hash = "c37e733ff6748e3836e0a56290a51a6232375b8ec4b73bdc39d8c72fe39c17f1"
-metafile = true
-
-[[files]]
 file = "mods/corpse.pw.toml"
 hash = "e79c0c7ce7d67628a19b74480d9d3fe0dfd2bf1cbb5505d167f033815c3d84a7"
-metafile = true
-
-[[files]]
-file = "mods/create-alloyed.pw.toml"
-hash = "5d9aa68db8ad8a7bfc9aae2298e56b76d690b165f618b8cee4f565109e96ab9b"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "d9830f9a911e3bcb54bf91d869f136d0d8c0fcc663c58472012a269bb84fdb2b"
 metafile = true
 
 [[files]]
@@ -175,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "6e744df0dd8dd38ccd00872e80a4ea449bde3f798ef2deb5018d905fe714af53"
+hash = "a0e6a473085c50b36c33924dbe5c36921a0a8a4a07acc72215bbbfabf3ec0b6b"
 metafile = true
 
 [[files]]
@@ -260,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "4267482576b3f0fc68bfc9dea0671cd9cd488dae623eafb5be4db7bbd3978986"
+hash = "7eec6f41484f681c524ffcbf6bbcc32a67df4f82830ca630e94db15d5bfd69e2"
 metafile = true
 
 [[files]]
@@ -369,11 +358,6 @@ hash = "c997694bdd2af57c008072efa0ea81747768df18bec04a88553d68e6e8b3c42d"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "8958d700cb45ca9dab94fe314702e0c548a31b2d5e83711433923a3018ac71a8"
-metafile = true
-
-[[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "44f80848edfe4b42c507c91573b10ef72629fda300ba14edf30fc77e5d326743"
 metafile = true
@@ -391,11 +375,6 @@ metafile = true
 [[files]]
 file = "mods/mutil.pw.toml"
 hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
-metafile = true
-
-[[files]]
-file = "mods/mysterious-mountain-lib.pw.toml"
-hash = "f65cfa2126b833d6ea9ee2264259e0cbae0d91eadbce4e3418c6d256ecdfa8b1"
 metafile = true
 
 [[files]]
@@ -430,12 +409,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
+hash = "a31ad085cc2d7044c380ea5015c1b944554e3d4cc76d57e939cf70bcbeb4b5dc"
 metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "ff6742aace7a51c492d8ec2025103d4627d2b157efba5902ba8a8f4bb7e6b14c"
+hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
 metafile = true
 
 [[files]]
@@ -540,12 +519,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4bc45052af6997d245483069aad79225260be1773e6a578643f16773791ecfb3"
+hash = "0ea805ff6f93913e20975b60180ca94673be76ff3d209707a8c728fe56124c6f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ad2916b2d26a7a3a255e889d0032e5539005dc3ee6abebc46a22f93655f549f8"
+hash = "2b7c679c5cf225e879a3c3bee50890d5db74941ebc77f1da57ae057cdb638a31"
 metafile = true
 
 [[files]]
