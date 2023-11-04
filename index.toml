@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "a0e6a473085c50b36c33924dbe5c36921a0a8a4a07acc72215bbbfabf3ec0b6b"
+hash = "978e844d3f6cff7b48c4d5ccb4586665ce43c091a18e4aacbbbcabfcbf39266b"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "74ee8faa0009467adfd9366f831c55571b614d2c486718b21d5d5f5ad78a2fa4"
+hash = "e84904ac0f90c6534790baba7e3b8d74905113732164bff5b2ce143df6336065"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "e00f1ba81c878e1c388633d4488c9ba81397053194757c9097ff84ceca9ffabf"
+hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
 metafile = true
 
 [[files]]
@@ -208,18 +208,13 @@ hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
 metafile = true
 
 [[files]]
-file = "mods/cultural-delights.pw.toml"
-hash = "9120e28ad0ee2de4950467c9ca0508712eabae2b3ac74b39e994844b4b5355ea"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
 metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+hash = "57b08209dc2826b2a896785b02952de9a7cbd3f8cd3f393034b163d6727b9008"
 metafile = true
 
 [[files]]
@@ -243,13 +238,18 @@ hash = "bb9d2f8bb5218c127f6164cac65011286d29577dde7c734521e25704feeb58e1"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "d1b1d595027472d03ce8faf913a26225da6c7c6b3bf56cae37ca01a906d8f4a2"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "e1181ed68fea5443f8c64452180aa1e96736155434d1cba3f485d6c800e6ba97"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "7eec6f41484f681c524ffcbf6bbcc32a67df4f82830ca630e94db15d5bfd69e2"
+hash = "2f7a3901fc68f9e31efc9fa231d30384b6bb2fb330bead055398665458215ae1"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/respiteful.pw.toml"
-hash = "bfb7c3ac9bc030a09386a3626bdf0ce341ec299e6c0aee286249db636f328e8d"
+hash = "4b6b00f67477b87bcb3c3c44400dbb6f32c2bd4d3b0a37b7b796e6115d8b2c47"
 metafile = true
 
 [[files]]
@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a4d8698184c30c709ecee80f05f0823da9a67591105f47e2792438a083fb1e35"
+hash = "1ccd77654f11bee55d40588ca4be563c929c3bde1289cf30f1606c9a45659af3"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a6b779b19fdc89e36439ddaf01be97ab2d6c1deb9229e104c581a575ebf1fa89"
+hash = "17fc53fe616732b1448e63ef4a6039c8a21482b607f3b66c4b1d65594890e7d6"
 metafile = true
 
 [[files]]
