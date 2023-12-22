@@ -1,13 +1,13 @@
 name = "Connectivity[Forge/Fabric]"
-filename = "connectivity-1.19.2-4.6.jar"
+filename = "connectivity-1.20.1-4.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4949acd920cf5688cfab70ea94e48877cb6e6968"
+hash = "a8308b5505f6acaf2a3b6b2dc3ccfb06da440509"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4764733
+file-id = 4956709
 project-id = 470193

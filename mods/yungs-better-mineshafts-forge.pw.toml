@@ -1,13 +1,13 @@
 name = "YUNG's Better Mineshafts (Forge)"
-filename = "YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar"
+filename = "YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8af635b26b8f4e3829ec326d1b11457943414ade"
+hash = "e2cbc574807a994bb9610184eb4bbfe29a6c0774"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4031199
+file-id = 4769063
 project-id = 389665
