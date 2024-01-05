@@ -1,0 +1,123 @@
+# Mod list
+
+- YUNG's Better Ocean Monuments (Forge)
+- YUNG's Better Jungle Temples (Forge)
+- Redstone Pen
+- Create: Steam 'n' Rails
+- Xaero's World Map
+- Structure Essentials[Forge/Fabric]
+- Dynamic View[Forge]
+- Bookshelf
+- Searchables
+- Resourceful Config
+- Just Enough Items (JEI)
+- Jade Addons (Forge)
+- Jade 🔍
+- Create Enchantment Industry
+- Architectury API (Fabric/Forge/NeoForge)
+- Controlling
+- End's Delight
+- Create
+- Chalk
+- Ocean's Delight
+- Create Slice & Dice
+- Cupboard
+- Alex's Mobs
+- YUNG's Better Desert Temples (Forge)
+- NetherPortalFix
+- FramedBlocks
+- Moonlight Lib
+- Kotlin for Forge
+- Macaw's Trapdoors
+- Create: Molten Vents
+- No Chat Reports
+- Sophisticated Storage
+- Supplementaries Squared
+- Guard Villagers
+- Corpse
+- Caelus API (Forge/NeoForge)
+- Carry On
+- YUNG's Better Strongholds (Forge)
+- Clumps
+- FindMe
+- Balm (Forge Edition)
+- Enderman Overhaul
+- Charm of Undying (Fabric/Forge/Quilt)
+- Nether's Delight
+- Placebo
+- FerriteCore (Forge)
+- GeckoLib
+- Deeper and Darker
+- Create Crafts & Additions
+- Citadel
+- Every Compat (Wood Good)
+- Macaw's Fences and Walls
+- Create: New Age
+- Farsight [Forge]
+- AppleSkin
+- Tom's Simple Storage Mod
+- Resourceful Lib
+- Macaw's Windows
+- Sophisticated Core
+- Supplementaries
+- Macaw's Paintings
+- Athena
+- Macaw's Paths and Pavings
+- Macaw's Furniture
+- FastSuite
+- Farmer's Delight
+- Let Me Despawn
+- Cloth Config API (Fabric/Forge/NeoForge)
+- Better Compatibility Checker
+- Mouse Tweaks
+- Chunk Sending[Forge/Fabric]
+- Just Enough Resources (JER)
+- Create Deco
+- YUNG's Better Mineshafts (Forge)
+- Polymorph (Fabric/Forge/Quilt)
+- Yeetus Experimentus
+- Absent by Design
+- Create : Misc & Things
+- EMI
+- Biomes O' Plenty
+- Macaw's Bridges
+- Aquaculture 2
+- Creeper Overhaul
+- mutil
+- YUNG's Better Witch Huts (Forge)
+- FastWorkbench
+- fix GPU memory leak[Forge/Fabric]
+- Entity Culling Fabric/Forge
+- TerraBlender (Forge)
+- Tetra
+- Server Performance - Smooth Chunk Save[Forge/Fabric]
+- AI Improvements
+- FLIB
+- Comforts (Fabric/Forge/Quilt)
+- Crafting Tweaks
+- Botarium
+- ModernFix
+- FastFurnace
+- Macaw's Roofs
+- Create Confectionery
+- Elytra Slot (Fabric/Forge/Quilt)
+- Sophisticated Backpacks
+- Inventory Sorter
+- Curios API (Forge/NeoForge)
+- Embeddium
+- Xaero's Minimap
+- Immersive Aircraft [Fabric/Forge]
+- Fast Leaf Decay
+- Macaw's Doors
+- Macaw's Lights and Lamps
+- Enchantment Descriptions
+- Create Stuff & Additions
+- Connectivity[Forge/Fabric]
+- YUNG's Better End Island (Forge)
+- Krypton Reforged
+- Recipe Essentials[Forge/Fabric]
+- YUNG's API (Forge)
+- YUNG's Better Dungeons (Forge)
+- YUNG's Better Nether Fortresses (Forge)
+- Open Parties and Claims
+- Chipped
