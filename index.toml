@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "1371e980652228710ac5319f104b61a48f3f62af17eb0a827cf17ddfb1efd026"
+hash = "b5c5c84be85d1fff02c51bd5e700d0ac13fe29df4de15e2e9234f43923e183e7"
 metafile = true
 
 [[files]]
@@ -97,11 +97,6 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "072fe6ea98520df441325294e7e17382afb015b26bd33ba5546a3fc5379fab20"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
@@ -221,17 +216,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d70c55c851f791fbdc42e4d8d5cff31faec8fcdf75e6c1c76765e16c3ddb280d"
+hash = "f0f4639e92802351443ff57c4f71c6ee67b879e088c61280cf39674d22bc4597"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "0f06583be416fe0e739d573f5ed6377f5cfcd38775667dfcb1ee3792368ae3e4"
+hash = "53a11e3bf250e043bf388d6680e537e3026c32a8080d02ffeeb71bb1f9eb0d87"
 metafile = true
 
 [[files]]
 file = "mods/enderman-overhaul.pw.toml"
-hash = "a651c15a6634369933c36b50135f3083fe22a05bfeda805f96491c86d5e5c876"
+hash = "f29e468a2aa1801bc8d9fdb0608b148d3e6eca97b25ef146a3e5d26bdff03f89"
 metafile = true
 
 [[files]]
@@ -242,11 +237,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "09d8e90563eccd14036316e3251c6bbee1408e6d5e0f405bb8f42e44ec2c85d7"
 metafile = true
 
 [[files]]
@@ -306,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "2aeab43f8b457417a4a91782cf1b3fa9de2c06a522e83e6555355c708d2c935e"
+hash = "4f2d8288becd1ebbbb494c487daa9682db64dbc82be04ea0369126e37510c17b"
 metafile = true
 
 [[files]]
@@ -360,58 +350,8 @@ hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "a72b4cce6c4c370313326aa7f838bc4d12e9c207fd2a2b6acc2a9683b8ee6641"
-metafile = true
-
-[[files]]
-file = "mods/macaws-doors.pw.toml"
-hash = "2f496bb621dfb96749e2871ebc28edce95d96d7446775d4acba8fa46e2b353e2"
-metafile = true
-
-[[files]]
-file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "42bbb9a06dea9bd2276200c9e460dee81e4fbe7a07d6d247c3744ca865ae3785"
-metafile = true
-
-[[files]]
-file = "mods/macaws-furniture.pw.toml"
-hash = "546d10c52ded211e5e3d739a8c6e0afa833bc7c915b798f70f4526691a5fb8a4"
-metafile = true
-
-[[files]]
-file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "7dda945755d1af637c66ec5da4100f34441cd7da8529bc6c10a57d8d59a84175"
-metafile = true
-
-[[files]]
-file = "mods/macaws-paintings.pw.toml"
-hash = "d35f82df95be7b038e48f81c290854c19183420a81b8fa5d505c97e23439face"
-metafile = true
-
-[[files]]
-file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "cfed98a6d423fdb1361e569edf13c8a90d7b6ab4c0464b3b0291108eea101404"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs.pw.toml"
-hash = "18844b7f2a830c1d701ad2c0b9ac3ffbfd69b2abffa5ea80be9e1686e3c153de"
-metafile = true
-
-[[files]]
-file = "mods/macaws-trapdoors.pw.toml"
-hash = "b5925e4dbe50574be29872a279b9a44f6348cd1aa175fc7a72cdde0069d2168c"
-metafile = true
-
-[[files]]
-file = "mods/macaws-windows.pw.toml"
-hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2a8e4c7488ddd420fc432717b9f4e76cb4cfbf8f02f351c6cd8f0390dde778ad"
+hash = "b36c61ea5e2062fd657e82c831c98883aca39ba60b29b63e78664047806fb22e"
 metafile = true
 
 [[files]]
@@ -471,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "e91ffac568d3823e1b6cbf7cf984b27a145ec4a9f23a00f2fe76445175484d1d"
+hash = "692ed5c4b3794053fbfb08107a2b0b0f90eec49b005a13be6ca86321e80df7ba"
 metafile = true
 
 [[files]]
@@ -486,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ed71c0d0d5dcc475a8077bb14b9ccdaccd1b009f9d57e12dea9cd44391d73fc6"
+hash = "fe0772c7dc7250bec77954134c13fa04aae48e18866097686324bc2b8063b4f6"
 metafile = true
 
 [[files]]
@@ -520,13 +460,8 @@ hash = "6273cbc248e4a0578d8d8e43c2d2cab98102b5bac0313f792c50f57721c3188d"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries-squared.pw.toml"
-hash = "d4f6ac1f801aa77bb9b8c612a37803e061d0065907b0b33158022d8e7eb146a7"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1b26d40f437075ed22f64b838ebd42a14fa5d0bb547f3d0ce6721c61c6d435b0"
+hash = "619a019ab398c26a851e7715db6dc6f7e897d54e852686a321769b20df7b7290"
 metafile = true
 
 [[files]]

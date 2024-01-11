@@ -4,7 +4,6 @@ https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
 https://www.curseforge.com/minecraft/mc-mods/appleskin
 https://www.curseforge.com/minecraft/mc-mods/aquaculture
 https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker
-https://www.curseforge.com/minecraft/mc-mods/betterf3
 https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 https://www.curseforge.com/minecraft/mc-mods/carry-on
 https://www.curseforge.com/minecraft/mc-mods/chalk
@@ -38,7 +37,6 @@ https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions
 https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul
 https://www.curseforge.com/minecraft/mc-mods/ends-delight
 https://www.curseforge.com/minecraft/mc-mods/entityculling
-https://www.curseforge.com/minecraft/mc-mods/every-compat
 https://www.curseforge.com/minecraft/mc-mods/farmers-delight
 https://www.curseforge.com/minecraft/mc-mods/farsight
 https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
@@ -58,16 +56,6 @@ https://www.curseforge.com/minecraft/mc-mods/jei
 https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
 https://www.curseforge.com/minecraft/mc-mods/krypton-reforged
 https://www.curseforge.com/minecraft/mc-mods/let-me-despawn
-https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
-https://www.curseforge.com/minecraft/mc-mods/macaws-doors
-https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls
-https://www.curseforge.com/minecraft/mc-mods/macaws-furniture
-https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps
-https://www.curseforge.com/minecraft/mc-mods/macaws-paintings
-https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings
-https://www.curseforge.com/minecraft/mc-mods/macaws-roofs
-https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors
-https://www.curseforge.com/minecraft/mc-mods/macaws-windows
 https://www.curseforge.com/minecraft/mc-mods/modernfix
 https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
 https://www.curseforge.com/minecraft/mc-mods/netherportalfix
@@ -85,7 +73,6 @@ https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
 https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage
 https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric
 https://www.curseforge.com/minecraft/mc-mods/supplementaries
-https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared
 https://www.curseforge.com/minecraft/mc-mods/tetra
 https://www.curseforge.com/minecraft/mc-mods/tetras-delight
 https://www.curseforge.com/minecraft/mc-mods/toms-storage
