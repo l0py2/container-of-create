@@ -28,6 +28,7 @@ https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions
 https://www.curseforge.com/minecraft/mc-mods/createaddition
 https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul
 https://www.curseforge.com/minecraft/mc-mods/curios
+https://www.curseforge.com/minecraft/mc-mods/decorative-blocks
 https://www.curseforge.com/minecraft/mc-mods/deeperdarker
 https://www.curseforge.com/minecraft/mc-mods/dynamic-view
 https://www.curseforge.com/minecraft/mc-mods/elytra-slot
@@ -37,6 +38,7 @@ https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions
 https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul
 https://www.curseforge.com/minecraft/mc-mods/ends-delight
 https://www.curseforge.com/minecraft/mc-mods/entityculling
+https://www.curseforge.com/minecraft/mc-mods/every-compat
 https://www.curseforge.com/minecraft/mc-mods/farmers-delight
 https://www.curseforge.com/minecraft/mc-mods/farsight
 https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
@@ -53,8 +55,11 @@ https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
 https://www.curseforge.com/minecraft/mc-mods/jade
 https://www.curseforge.com/minecraft/mc-mods/jade-addons
 https://www.curseforge.com/minecraft/mc-mods/jei
+https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed
 https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
 https://www.curseforge.com/minecraft/mc-mods/krypton-reforged
+https://www.curseforge.com/minecraft/mc-mods/kubejs
+https://www.curseforge.com/minecraft/mc-mods/kubejs-create
 https://www.curseforge.com/minecraft/mc-mods/let-me-despawn
 https://www.curseforge.com/minecraft/mc-mods/modernfix
 https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
@@ -63,6 +68,7 @@ https://www.curseforge.com/minecraft/mc-mods/nethers-delight
 https://www.curseforge.com/minecraft/mc-mods/no-chat-reports
 https://www.curseforge.com/minecraft/mc-mods/oceans-delight
 https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims
+https://www.curseforge.com/minecraft/mc-mods/paxi
 https://www.curseforge.com/minecraft/mc-mods/polymorph
 https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric
 https://www.curseforge.com/minecraft/mc-mods/redstone-pen

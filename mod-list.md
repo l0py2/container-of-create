@@ -39,6 +39,7 @@
 - Creeper Overhaul
 - Cupboard
 - Curios API (Forge/NeoForge)
+- Decorative Blocks
 - Deeper and Darker
 - Dynamic View[Forge]
 - Elytra Slot (Fabric/Forge/Quilt)
@@ -48,6 +49,7 @@
 - End's Delight
 - Enderman Overhaul
 - Entity Culling Fabric/Forge
+- Every Compat (Wood Good)
 - Farmer's Delight
 - Farsight [Forge]
 - Fast Leaf Decay
@@ -65,10 +67,13 @@
 - Inventory Sorter
 - Jade Addons (Forge)
 - Jade 🔍
+- Just Enough Effect Descriptions (JEED)
 - Just Enough Items (JEI)
 - Just Enough Resources (JER)
 - Kotlin for Forge
 - Krypton Reforged
+- KubeJS
+- KubeJS Create
 - Let Me Despawn
 - ModernFix
 - Moonlight Lib
@@ -79,12 +84,14 @@
 - No Chat Reports
 - Ocean's Delight
 - Open Parties and Claims
+- Paxi (Forge)
 - Placebo
 - Polymorph (Fabric/Forge/Quilt)
 - Recipe Essentials[Forge/Fabric]
 - Redstone Pen
 - Resourceful Config
 - Resourceful Lib
+- Rhino
 - Searchables
 - Server Performance - Smooth Chunk Save[Forge/Fabric]
 - Sophisticated Backpacks

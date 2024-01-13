@@ -5,6 +5,18 @@ file = "config/alexsmobs.toml"
 hash = "cb791a6f0b3461c776716b7496e190f79ffe3997d0498b87f471f3a2f92500d3"
 
 [[files]]
+file = "config/paxi/resourcepacks/Create+Simple+Storage+2.1.zip"
+hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
+
+[[files]]
+file = "kubejs/server_scripts/chipped_create_compat.js"
+hash = "5c90910818b09ef39c978851e423d58525d6862df3dabf893c26e416610c38b7"
+
+[[files]]
+file = "kubejs/server_scripts/starting_items.js"
+hash = "0f8eb281eec00891a51af6986e70e2c59bbe706a0f9e85a6ccc7fa697d766113"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "4374330e6a885f84e16947851d9e37ec30f4e0fd431487cd934d56b1b24dc58b"
 metafile = true
@@ -195,6 +207,11 @@ hash = "582df14a33015fe8060af8d1d759d10cfa0dbfa93927f007b611032ba574c950"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "70e533888c0a3b0fe798a7479cfe6cc2cdfe415bac64ba9471c87eb631c3eb1b"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "c2693b6cb0bbdfbf84b166382f8612c8dc8ccc02ab5fa66d44bf7ece75f48afb"
 metafile = true
@@ -237,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "b6b025b64fb5ed5d33a2408fa62511bef25b5d97d40a6837480bed60c7b4716e"
 metafile = true
 
 [[files]]
@@ -330,6 +352,11 @@ hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "888e8d5378d59da32a2717cd1adb62eca8ac93d3dedc81d4359e0a9f68d7d307"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "b8ccdb6c421792758f82d52605253fec9e3255ef4e19aa88c06bdaba95b84f32"
 metafile = true
@@ -345,13 +372,23 @@ hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "432015ce62e9acfd7f305102eb0aa8423e3d424f06193c333b71dc21f1fba29e"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "5ad11c7b6b20623354a612fe52d6bac546441363b16490404a8a373d2ff47f22"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b36c61ea5e2062fd657e82c831c98883aca39ba60b29b63e78664047806fb22e"
+hash = "10a80ae383e564d288cd8cf376d276a9eb091761eb987e6540312378d8fb9c42"
 metafile = true
 
 [[files]]
@@ -390,6 +427,11 @@ hash = "8870d86453dcfef75327875c3d1b8ec5bc9a4310c47147aa6a837de5491257f7"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "1bc510c2003bae5616d20b25637b08dd1f3038924e1ed5accf72cd1e5c82790d"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "3efe1725ae6105d992ab8be92044c83e1886b0b9f0972415c3f72ab018e82f79"
 metafile = true
@@ -406,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-pen.pw.toml"
-hash = "2ee09989be97fc523f45f9e96795070fc61c58cabb323b12e0a34aa94b335ef2"
+hash = "2a6c809ede1b43163efc33d06b7c5759da9537f2be62589d96ec4300cad05313"
 metafile = true
 
 [[files]]
@@ -420,13 +462,18 @@ hash = "54980224a747a23832727baac223d407fd22f1a42d7fd50345429b3e13ef5252"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "fe0772c7dc7250bec77954134c13fa04aae48e18866097686324bc2b8063b4f6"
+hash = "23cffbafe6763cf88f3f1f2b99e8a9dcbe34a4073977a45152fe336c13043b44"
 metafile = true
 
 [[files]]
