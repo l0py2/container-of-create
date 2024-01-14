@@ -14,7 +14,7 @@ hash = "5c90910818b09ef39c978851e423d58525d6862df3dabf893c26e416610c38b7"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "0f8eb281eec00891a51af6986e70e2c59bbe706a0f9e85a6ccc7fa697d766113"
+hash = "55ac11a3a6d2450b35b7c8f41a7d35370ee7d4cfda0d51912d584f0ce961e6da"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
