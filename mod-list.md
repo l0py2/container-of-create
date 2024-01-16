@@ -61,6 +61,7 @@
 - fix GPU memory leak[Forge/Fabric]
 - FLIB
 - FramedBlocks
+- Fruits Delight
 - GeckoLib
 - Guard Villagers
 - Immersive Aircraft [Fabric/Forge]

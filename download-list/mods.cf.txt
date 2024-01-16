@@ -49,6 +49,7 @@ https://www.curseforge.com/minecraft/mc-mods/ferritecore
 https://www.curseforge.com/minecraft/mc-mods/findme
 https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak
 https://www.curseforge.com/minecraft/mc-mods/framedblocks
+https://www.curseforge.com/minecraft/mc-mods/fruits-delight
 https://www.curseforge.com/minecraft/mc-mods/guard-villagers
 https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft
 https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
