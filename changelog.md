@@ -1,21 +1,93 @@
-# Mod list
+# Changelog
+
+
+## 0.4.0: Compatibility and food
+
+### Changes
+
+- Added Aquaculture 2 knives to Farmer's Delight recipes
+- Replaced Aquacultures 2 sushi recipe and nutrition values
+- Unified all recipes with ropes to use ropes from Supplementaries
+- Added various mods
+- Removed various mods
+
+### Mods added
+
+- Canary
+- Delightful
+- Miner's Delight
+- Sawmill
+- Tetra's Delight
+
+### Mods removed
+
+- AI Improvements
+- Better Compatibility Checker
+- Chunk Sending[Forge/Fabric]
+- Create : Misc & Things
+- Create: Molten Vents
+- Dynamic View[Forge]
+- Farsight [Forge]
+- Fix GPU memory leak[Forge/Fabric]
+- Let Me Despawn
+- ModernFix
+- NetherPortalFix
+- Server Performance - Smooth Chunk Save[Forge/Fabric]
+- Yeetus Experimentus
+
+
+## 0.3.0: Fruits added
+
+### Mods added
+
+- Fruits Delight
+
+
+## 0.2.0: Compatibility
+
+### Changes
+
+- Added Tom's Create Storage resource pack
+- Added cutting recipe to Chipped blocks using Create mechanical saw
+- Added starting items
+- Added various mods
+
+### Mods added
+
+- Decorative Blocks
+- Every Compat (Wood Good)
+- Just Enough Effect Descriptions (JEED)
+- KubeJS
+- KubeJS Create
+- Paxi (Forge)
+
+### Resource packs added
+
+- Tom's Create Storage
+
+
+## 0.1.0: Initial version
+
+### Initial mod list
 
 - Absent by Design
+- AI Improvements
 - Alex's Mobs
 - AppleSkin
 - Aquaculture 2
 - Architectury API (Fabric/Forge/NeoForge)
 - Athena
 - Balm (Forge Edition)
+- Better Compatibility Checker
 - Biomes O' Plenty
 - Bookshelf
 - Botarium
 - Caelus API (Forge/NeoForge)
-- Canary
 - Carry On
 - Chalk
 - Charm of Undying (Fabric/Forge/Quilt)
 - Chipped
+- Chunk Sending[Forge/Fabric]
 - Citadel
 - Clumps
 - Comforts (Fabric/Forge/Quilt)
@@ -24,20 +96,21 @@
 - Corpse
 - Crafting Tweaks
 - Create
+- Create : Misc & Things
 - Create Confectionery
 - Create Crafts & Additions
 - Create Deco
 - Create Enchantment Industry
 - Create Slice & Dice
 - Create Stuff & Additions
+- Create: Molten Vents
 - Create: New Age
 - Create: Steam 'n' Rails
 - Creeper Overhaul
 - Cupboard
 - Curios API (Forge/NeoForge)
-- Decorative Blocks
 - Deeper and Darker
-- Delightful
+- Dynamic View[Forge]
 - Elytra Slot (Fabric/Forge/Quilt)
 - Embeddium
 - EMI
@@ -45,48 +118,45 @@
 - End's Delight
 - Enderman Overhaul
 - Entity Culling Fabric/Forge
-- Every Compat (Wood Good)
 - Farmer's Delight
+- Farsight [Forge]
 - Fast Leaf Decay
 - FastFurnace
 - FastSuite
 - FastWorkbench
-- FerriteCore ((Neo)Forge)
+- FerriteCore (Forge)
 - FindMe
+- fix GPU memory leak[Forge/Fabric]
 - FLIB
 - FramedBlocks
-- Fruits Delight
 - GeckoLib
 - Guard Villagers
 - Immersive Aircraft [Fabric/Forge]
 - Inventory Sorter
 - Jade Addons (Forge)
 - Jade 🔍
-- Just Enough Effect Descriptions (JEED)
 - Just Enough Items (JEI)
 - Just Enough Resources (JER)
 - Kotlin for Forge
 - Krypton Reforged
-- KubeJS
-- KubeJS Create
-- Miner's Delight +
+- Let Me Despawn
+- ModernFix
 - Moonlight Lib
 - Mouse Tweaks
 - mutil
 - Nether's Delight
+- NetherPortalFix
 - No Chat Reports
 - Ocean's Delight
 - Open Parties and Claims
-- Paxi (Forge)
 - Placebo
 - Polymorph (Fabric/Forge/Quilt)
 - Recipe Essentials[Forge/Fabric]
 - Redstone Pen
 - Resourceful Config
 - Resourceful Lib
-- Rhino
-- Sawmill
 - Searchables
+- Server Performance - Smooth Chunk Save[Forge/Fabric]
 - Sophisticated Backpacks
 - Sophisticated Core
 - Sophisticated Storage
@@ -94,10 +164,10 @@
 - Supplementaries
 - TerraBlender (Forge)
 - Tetra
-- Tetra's Delight
 - Tom's Simple Storage Mod
 - Xaero's Minimap
 - Xaero's World Map
+- Yeetus Experimentus
 - YUNG's API (Forge)
 - YUNG's Better Desert Temples (Forge)
 - YUNG's Better Dungeons (Forge)
