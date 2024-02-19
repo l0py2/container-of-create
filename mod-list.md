@@ -18,6 +18,7 @@
 - Chipped
 - Citadel
 - Clumps
+- CoFH Core
 - Comforts (Fabric/Forge/Quilt)
 - Connectivity[Forge/Fabric]
 - Controlling
@@ -69,6 +70,7 @@
 - Krypton Reforged
 - KubeJS
 - KubeJS Create
+- KubeJS Thermal
 - Miner's Delight +
 - Moonlight Lib
 - Mouse Tweaks
@@ -77,7 +79,7 @@
 - No Chat Reports
 - Ocean's Delight
 - Open Parties and Claims
-- Paxi (Forge)
+- Patchouli
 - Placebo
 - Polymorph (Fabric/Forge/Quilt)
 - Recipe Essentials[Forge/Fabric]
@@ -85,7 +87,6 @@
 - Resourceful Config
 - Resourceful Lib
 - Rhino
-- Sawmill
 - Searchables
 - Sophisticated Backpacks
 - Sophisticated Core
@@ -95,6 +96,13 @@
 - TerraBlender (Forge)
 - Tetra
 - Tetra's Delight
+- Thermal Cultivation
+- Thermal Dynamics
+- Thermal Expansion
+- Thermal Foundation
+- Thermal Innovation
+- Thermal Integration
+- Thermal Locomotion
 - Tom's Simple Storage Mod
 - Xaero's Minimap
 - Xaero's World Map

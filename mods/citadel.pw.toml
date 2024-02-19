@@ -1,13 +1,13 @@
 name = "Citadel"
-filename = "citadel-2.5.2-1.20.1.jar"
+filename = "citadel-2.5.3-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e03bff2f7d838e12c42878178bc21e5b072a3abc"
+hash = "b145c7849b7695c0d6d14bd7245eaaab8a27a38e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5065861
+file-id = 5075402
 project-id = 331936

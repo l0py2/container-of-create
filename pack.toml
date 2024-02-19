@@ -1,12 +1,12 @@
 name = "Container of Create"
 author = "l0py2"
-version = "0.4.0"
+version = "0.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b14ce5620687b8191a88184b95d12038d86470e36a2fb1d6a0e1527022dca59a"
+hash = "601f17cfa8daee7a712f916c4d3e554026babde86ca11ee19290f6f253272627"
 
 [versions]
 forge = "47.2.20"

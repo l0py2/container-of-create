@@ -1,5 +1,30 @@
 # Changelog
 
+## 0.5.0: Energy expansion
+
+### Changes
+
+- Removed Chipped saw compatibility
+- Replaced Create: New Age wires recipes with simmilar recipes to present in Create Crafts & Additions
+- Added Thermal seeds to grass drop
+- Added mixing recipes for Thermal alloys
+
+### Mods added
+
+- Patchouli
+- Thermal Cultivation
+- Thermal Dynamics
+- Thermal Expansion
+- Thermal Foundation
+- Thermal Innovation
+- Thermal Integration
+- Thermal Locomotion
+
+### Mods removed
+
+- Paxi (Forge)
+- Sawmill
+
 
 ## 0.4.0: Compatibility and food
 
