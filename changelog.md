@@ -32,7 +32,6 @@
 - SuperMartijn642's Config Lib
 - SuperMartijn642's Core Lib
 - Supplementaries Squared
-- tetracelium
 - Tetranomicon
 - Tom's Trading Network
 - Vertical Slabs Compat
@@ -41,6 +40,7 @@
 - YUNG's Bridges (Forge)
 - YUNG's Extras (Forge)
 - Zeta
+- tetracelium
 
 ### Mods removed
 
@@ -53,8 +53,8 @@
 - Krypton Reforged
 - No Chat Reports
 - Recipe Essentials[Forge/Fabric]
-- Tetra's Delight
 - Structure Essentials[Forge/Fabric]
+- Tetra's Delight
 
 
 ## 0.5.0: Energy expansion

@@ -7,6 +7,7 @@ Loader: **Forge**
 
 Modpack focused on Create and it's addons but also adds:
 
+- Ad Astra
 - Alex's Mobs
 - Biomes O' Plenty
 - Farmer's Delight and it's addons
