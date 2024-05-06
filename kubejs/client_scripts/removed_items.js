@@ -1,6 +1,5 @@
 ItemEvents.tooltip(event => {
 	const removedItems = [
-		'farmersdelight:rope',
 		'aquaculture:wooden_fillet_knife',
 		'aquaculture:stone_fillet_knife',
 		'aquaculture:iron_fillet_knife',
@@ -15,19 +14,7 @@ ItemEvents.tooltip(event => {
 		'thermal:apple_block',
 		'thermal:carrot_block',
 		'thermal:potato_block',
-		'thermal:beetroot_block',
-		/.*coin.*/,
-		/thermal:dynamo.*/,
-		'thermal:press_unpacking_die',
-		'thermal:press_packing_2x2_die',
-		'thermal:press_packing_3x3_die',
-		'thermal:iron_plate',
-		'thermal:gold_plate',
-		'thermal:copper_plate',
-		'thermal:electrum_plate',
-		'createaddition:electrum_ingot',
-		'createaddition:electrum_nugget',
-		'createaddition:diamond_grit'
+		'thermal:beetroot_block'
 	];
 
 	event.add(removedItems, '\u00A7cItem removed');

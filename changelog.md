@@ -1,5 +1,62 @@
 # Changelog
 
+## 0.6.0: Astral Engineering
+
+### Mods added
+
+- Ad Astra
+- Ad Tetra!
+- Alex's Delight
+- Almost Unified
+- Alternate Current
+- Amendments
+- Architect's Palette
+- Better Fps - Render Distance[Forge]
+- Blueprint
+- Catalogue
+- Chunk Sending[Forge/Fabric]
+- Clayworks
+- Client Crafting
+- Configured
+- Create: Ad Astra Compatibility
+- Create: Connected
+- Create: The Factory Must Grow
+- Engineers Delight
+- Fusion (Connected Textures)
+- Immersive Engineering
+- JER Integration
+- Leaves Be Gone [Forge & Fabric]
+- Open Loader
+- Puzzles Lib [Forge & Fabric]
+- Quark
+- SuperMartijn642's Config Lib
+- SuperMartijn642's Core Lib
+- Supplementaries Squared
+- tetracelium
+- Tetranomicon
+- Tom's Trading Network
+- Vertical Slabs Compat
+- Withering Boon for Tetra
+- Woodworks
+- YUNG's Bridges (Forge)
+- YUNG's Extras (Forge)
+- Zeta
+
+### Mods removed
+
+- Caelus API (Forge/NeoForge)
+- Charm of Undying (Fabric/Forge/Quilt)
+- Clumps
+- Create Confectionery
+- Create Stuff & Additions
+- Fast Leaf Decay
+- Krypton Reforged
+- No Chat Reports
+- Recipe Essentials[Forge/Fabric]
+- Tetra's Delight
+- Structure Essentials[Forge/Fabric]
+
+
 ## 0.5.0: Energy expansion
 
 ### Changes
