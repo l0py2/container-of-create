@@ -16,7 +16,6 @@
 - Balm (Forge Edition)
 - Better Fps - Render Distance[Forge]
 - Biomes O' Plenty
-- Blueprint
 - Bookshelf
 - Botarium
 - Canary
@@ -24,9 +23,7 @@
 - Catalogue
 - Chalk
 - Chipped
-- Chunk Sending[Forge/Fabric]
 - Citadel
-- Clayworks
 - Client Crafting
 - CoFH Core
 - Comforts (Fabric/Forge/Quilt)
@@ -125,7 +122,6 @@
 - Tom's Trading Network
 - Vertical Slabs Compat
 - Withering Boon for Tetra
-- Woodworks
 - Xaero's Minimap
 - Xaero's World Map
 - YUNG's API (Forge)

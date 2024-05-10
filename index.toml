@@ -149,11 +149,6 @@ hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
 
 [[files]]
-file = "mods/blueprint.pw.toml"
-hash = "f7574bbc725128a0fa6a44c959c67d706d2279ed442dfedf2d135fd955e5ca6b"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "475a3bafbd5a7b6e8a7f8008f9a137e25a7c0d3474cca99eaa8bfa313899b408"
 metafile = true
@@ -189,18 +184,8 @@ hash = "2d88c8932f077d343b4df477302cab4b66e912b73509c17781ea786c28c08461"
 metafile = true
 
 [[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "454a06dd8f4f896dc23545a1ea4dcf304ca1265cdfe6c98b729d2943fb0b0341"
-metafile = true
-
-[[files]]
-file = "mods/clayworks.pw.toml"
-hash = "a481b0afa4e6b3452a9d592a51270c21660d243209f1e4b75ce2f982cf80f617"
 metafile = true
 
 [[files]]
@@ -691,11 +676,6 @@ metafile = true
 [[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
 hash = "d8e60b645a09fbe279a2aab94de7b3ee0425c0d50eaf5b4cfac8d9332619ce86"
-metafile = true
-
-[[files]]
-file = "mods/woodworks.pw.toml"
-hash = "fd6c9a3053d6426fbc9ede6e52a38b9de5d8dc7eb015ca7b98139c2fc0b282ac"
 metafile = true
 
 [[files]]

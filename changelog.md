@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.7.0: Clean up
+
+## Mods removed
+
+- Blueprint
+- Chunk Sending[Forge/Fabric]
+- Clayworks
+- Woodworks
+
 ## 0.6.0: Astral Engineering
 
 ### Mods added
