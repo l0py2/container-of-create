@@ -2,7 +2,7 @@
 
 ## 0.7.0: Clean up
 
-## Mods removed
+### Mods removed
 
 - Blueprint
 - Chunk Sending[Forge/Fabric]
