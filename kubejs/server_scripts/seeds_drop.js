@@ -1,26 +1,36 @@
 ServerEvents.blockLootTables(event => {
-	const removedSeeds = [
-		'thermal:flax_seeds',
-		'thermal:onion_seeds',
-		'thermal:tomato_seeds',
-		'thermal:rice_seeds',
-		'thermal:frost_melon_seeds'
+	const seeds = [
+		'thermal:amaranth_seeds',
+		'thermal:barley_seeds',
+		'thermal:corn_seeds',
+		'thermal:radish_seeds',
+		'thermal:sadiroot_seeds',
+		'thermal:spinach_seeds',
+		'thermal:bell_pepper_seeds',
+		'thermal:eggplant_seeds',
+		'thermal:green_bean_seeds',
+		'thermal:peanut_seeds',
+		'thermal:strawberry_seeds',
+		'thermal:coffee_seeds',
+		'thermal:hops_seeds',
+		'thermal:tea_seeds',
+		'thermal:frost_melon_seeds',
+		'minecraft:wheat_seeds',
+		'minecraft:beetroot_seeds',
+		'immersiveengineering:seed'
 	];
-
-	const seeds = Ingredient.of(/thermal:.*_seeds/).getItemIds()
-		.filter(seed => removedSeeds.indexOf(seed) == -1);
 
 	const grasses = [
 		'minecraft:grass',
-		'minecraft:tall_grass',
+		'minecraft:tall_grass'
 	];
 
 	grasses.forEach(grass => {
-		event.modifyBlock(grass, table => {
+		event.addBlock(grass, table => {
 			table.addPool(pool => {
 				pool.survivesExplosion();
 
-				pool.rolls = { n: 1, p: 0.125 };
+				pool.rolls = { n: 1, p: 0.1 };
 
 				seeds.forEach(seed => pool.addItem(seed));
 			});

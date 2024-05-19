@@ -1,3 +1,5 @@
+// priority: 0
+
 const removedItems = [
 	'aquaculture:wooden_fillet_knife',
 	'aquaculture:stone_fillet_knife',
