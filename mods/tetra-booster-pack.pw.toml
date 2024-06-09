@@ -1,13 +1,13 @@
 name = "Withering Boon for Tetra"
-filename = "witheringboon-1.8.2.jar"
+filename = "witheringboon-1.8.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fd4e3d9ecd18a55d54f9adf1720fc03a5bd9e11a"
+hash = "8e8c139412ec99540ac5071a8b98ecdd28aad9d2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5347174
+file-id = 5384173
 project-id = 857533

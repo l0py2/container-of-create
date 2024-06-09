@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.7.1: Updated mods
+
 ## 0.7.0: Clean up
 
 ### Mods removed
