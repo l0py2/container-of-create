@@ -1,6 +1,16 @@
 # Changelog
 
+## 0.8.0: Clean up
+
+### Mods removed
+
+- Biomes O' Plenty
+- Open Loader
+- TerraBlender (Forge)
+
+
 ## 0.7.1: Updated mods
+
 
 ## 0.7.0: Clean up
 
@@ -10,6 +20,7 @@
 - Chunk Sending[Forge/Fabric]
 - Clayworks
 - Woodworks
+
 
 ## 0.6.0: Astral Engineering
 
