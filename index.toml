@@ -13,6 +13,10 @@ file = "config/thermal-client.toml"
 hash = "39f2b770c93956d27bee0932b50a625206043a5c3190375699bfd9829a5ec0cd"
 
 [[files]]
+file = "defaultconfigs/thermal-server.toml"
+hash = "5c7bf02928af1e3799502f80d902c6bca2383084153a40346ada6b31e9e88cc6"
+
+[[files]]
 file = "kubejs/assets/create_new_age/lang/en_us.json"
 hash = "1fea625eb6ad72532cfebe74e1f13deba95ef3b0fdf50cb94052282537a86fd7"
 
@@ -481,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/mutil.pw.toml"
 hash = "4e0ebdb97b93b545a2ab458e7aea179a32564234a7828fe4ecbee415d68916a2"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
 
 [[files]]
