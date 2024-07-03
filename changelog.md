@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.9.0: Nether and seeds
+
+### Changes
+
+- Removed default Thermal seed droping
+
+### Mods added
+
+- NetherPortalFix
+
+
 ## 0.8.0: Clean up
 
 ### Mods removed
