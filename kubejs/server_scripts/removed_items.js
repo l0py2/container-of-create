@@ -26,6 +26,7 @@ ServerEvents.recipes(event => {
 	replaceItem('thermal:onion', 'farmersdelight:onion');
 	replaceItem('thermal:tomato', 'farmersdelight:tomato');
 	replaceItem('thermal:rice', 'farmersdelight:rice');
+	replaceItem('create_new_age:copper_wire', 'createaddition:copper_wire');
 
 	global.removedItems.forEach(item => {
 		event.remove([{ output: item }, { input: item }]);

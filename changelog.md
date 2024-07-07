@@ -1,10 +1,29 @@
 # Changelog
 
+## 0.10.0: Clean up
+
+### Changes
+
+- Removed all Create: New Age wires
+- Removed Ad Astra oil wells
+- Removed recipes for all the coins, maybe in the future trading quests will be added
+
+### Mods added
+
+- Art of Forging: A Tetra Addon
+
+### Mods removed
+
+- Carry On
+- Engineers Delight
+- Immersive Engineering
+
+
 ## 0.9.0: Nether and seeds
 
 ### Changes
 
-- Removed default Thermal seed droping
+- Removed default Thermal seed dropping
 
 ### Mods added
 

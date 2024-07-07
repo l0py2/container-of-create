@@ -17,44 +17,36 @@ file = "defaultconfigs/thermal-server.toml"
 hash = "5c7bf02928af1e3799502f80d902c6bca2383084153a40346ada6b31e9e88cc6"
 
 [[files]]
-file = "kubejs/assets/create_new_age/lang/en_us.json"
-hash = "1fea625eb6ad72532cfebe74e1f13deba95ef3b0fdf50cb94052282537a86fd7"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/overcharged_diamond_wire.png"
-hash = "b3988376d9a3493c7e9d751f4128e099b5ee2c0ec4bfb3a05d2463ca292ee0bc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/overcharged_golden_wire.png"
-hash = "5dc5d010ea37ec67bb58e4f95f1a99c3ae33fba39406e87c89501e963bc0c708"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/overcharged_iron_wire.png"
-hash = "127961222da836a0fc88c72629f492647d516deb477c09194db53259b8265006"
-
-[[files]]
 file = "kubejs/client_scripts/removed_items.js"
 hash = "7bc205bd93e18869def17e382ad1da53147aba5ed908e5bf65bcd65989541536"
 
 [[files]]
-file = "kubejs/server_scripts/compat/create_wires_compat.js"
-hash = "43dc1913e42f1309fb5ab54b341cffa497c49d9df29a54995712056bc31d5b0b"
+file = "kubejs/data/ad_astra/tags/worldgen/biome/has_structure/oil_well.json"
+hash = "114ddc1ad3ee1bce3c44eae244eeacb3d34b0c6e7112998644565528042e0b0c"
 
 [[files]]
-file = "kubejs/server_scripts/compat/farmers_delight_compat.js"
+file = "kubejs/server_scripts/compat/farmers_delight.js"
 hash = "6eba6f79dd93cd9d23ec0d6bfc6a90ba2d4854d0386b3bd990f82615e0a2c9db"
 
 [[files]]
-file = "kubejs/server_scripts/create_recipes.js"
+file = "kubejs/server_scripts/compat/oil.js"
+hash = "8ffdd6ab59f702070bd8ebf78d5d1ab82ff459e4a6a34310466b8982cf5c4c73"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/coins.js"
+hash = "659e0b628fa80aa96aaa1de5b23e4863471c1b2b67413e0ffd52a8baaf720591"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/create.js"
 hash = "e8472d38fc4bce4b3505c137d7b4577ee0e937740ecc16cdaa97f32c1ea61613"
 
 [[files]]
-file = "kubejs/server_scripts/qol_recipes.js"
+file = "kubejs/server_scripts/recipes/qol.js"
 hash = "efa1924f7788ab5e49c33ab6dd7afbfdf85d0fe40dee92a8a32c8b9b5375b82d"
 
 [[files]]
 file = "kubejs/server_scripts/removed_items.js"
-hash = "1acfcf5693fdfae7d441e08e7a63d396127a38205dc0f31ba0d33075aeff047c"
+hash = "3c4530c0e1a1df3048378d168d89b4b5a49119c39c58548419af246afaefefc7"
 
 [[files]]
 file = "kubejs/server_scripts/seeds_drop.js"
@@ -66,11 +58,11 @@ hash = "55ac11a3a6d2450b35b7c8f41a7d35370ee7d4cfda0d51912d584f0ce961e6da"
 
 [[files]]
 file = "kubejs/startup_scripts/compat.js"
-hash = "daf538b6c51546cf3b97404d05256d4d3e0b2a779ecd36848f99a61d761c587d"
+hash = "f9b23837e0f957a5a3b89f460ba8a2995503d03e219007b75fe0b6ec1d39f9ac"
 
 [[files]]
 file = "kubejs/startup_scripts/global.js"
-hash = "debd68c9ca2a651591e1bef85c22f088fb0a983b4e3d886332abb407fab82888"
+hash = "edac237d231e47547fd32a66da16d23b3b474c88b91aaf21010e7e7e616e7700"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
@@ -133,6 +125,11 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/art-of-forging-a-tetra-addon.pw.toml"
+hash = "0b4fb1eefdf263e149ec42a6f6fb99746ac7fa7e28596355b050a9e4a492a2c9"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
@@ -160,11 +157,6 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
@@ -199,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "6bdf5c00414be2b3bb20d040afe2e90550a300755414aaff01577eed6eaf491f"
+hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
 metafile = true
 
 [[files]]
@@ -209,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
+hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
 metafile = true
 
 [[files]]
@@ -249,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "efb9cf070be73bc4fe9458a553fd2e470009bb98d44d66c7681fe06c93aee8d7"
+hash = "abc87586c5f25e831edcb9e510c9965e288adc22eb89f98f93c99bbb57547ef9"
 metafile = true
 
 [[files]]
@@ -304,12 +296,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "c987b4f2713f3a6335dde6ded47de4d4cdbbcaa037d139c37e7e25f7f590fb31"
+hash = "14b1ec5e16b3ce51752b10271a1457536acafdcacfeb807728478f337b34298e"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "7ae9334285cde38357e84a3cfbd346e2616ad93292382e1bc7b305bc59b9236f"
+hash = "fde7b10fc03483fbfceb24bc4439be6920f5fa9d6c3802c48847959f2b52107f"
 metafile = true
 
 [[files]]
@@ -328,18 +320,13 @@ hash = "05bd2cd6cfe475dda10434109bd5aba325655d0df4935a4a6b77ef760a58f94d"
 metafile = true
 
 [[files]]
-file = "mods/engineers-delight.pw.toml"
-hash = "8a361f7ec1dc47df4bc76d43145bd8494bba801c181757e34091822b18d120f2"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "3de9fc56a1f656b20b308f462aac84aa50bd30551371137b752db21cf5091cfd"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "485feb69553c5c962006bab21ff9937736140f8a8a27975aa97f47e09484e59b"
+hash = "ae14c3df07bf08c23687eeb2045a1e3debc80fd7d7c05ef51e1cbcfb1392fde0"
 metafile = true
 
 [[files]]
@@ -374,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/flib.pw.toml"
-hash = "aaaae1c159be64f990d869e13bc75bc237d3850d2f3c42472b3b842670651697"
+hash = "4a5b4a1d085ef0ad0d77e6c211e793f2d5cbe34e8ead3f5e7d2d089ceca207a0"
 metafile = true
 
 [[files]]
@@ -408,11 +395,6 @@ hash = "e50f67e37775aca9ee5c5a1c91bd8e10846f8077e20ace467e4acb7892e1aca0"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "5508a5c035dffcb22c6ff5b2a52235f753fc4361221be8b97c25b8650efefba6"
-metafile = true
-
-[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
@@ -424,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "212633e875f70f3990a8064079e116dae6b957363c2d67776cc56debb2e64c7b"
+hash = "c309e7c7ee8233136eca526d44d6c6b6a2411f11eb6fe0394e81df1dc6de355f"
 metafile = true
 
 [[files]]
@@ -504,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "9975782b5a856cef60f704924ddfe6aa22d95c7345af845ba6056cdfadc93d73"
+hash = "134caaf6adf6ad007d4c6449430062d5a152238828e9fb8271060587adbbf61f"
 metafile = true
 
 [[files]]

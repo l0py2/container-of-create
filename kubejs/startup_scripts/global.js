@@ -15,5 +15,13 @@ global.removedItems = [
 	'thermal:apple_block',
 	'thermal:carrot_block',
 	'thermal:potato_block',
-	'thermal:beetroot_block'
+	'thermal:beetroot_block',
+	'createaddition:electric_motor',
+	'createaddition:alternator',
+	'create_new_age:copper_wire',
+	'create_new_age:overcharged_iron_wire',
+	'create_new_age:overcharged_golden_wire',
+	'create_new_age:overcharged_diamond_wire',
+	'ad_astra:oil_bucket',
+	/thermal:dynamo_*/
 ];
