@@ -12,14 +12,13 @@
 - Aquaculture 2
 - Architect's Palette
 - Architectury API (Fabric/Forge/NeoForge)
+- Art of Forging: A Tetra Addon
 - Athena
 - Balm (Forge Edition)
 - Better Fps - Render Distance[Forge]
-- Biomes O' Plenty
 - Bookshelf
 - Botarium
 - Canary
-- Carry On
 - Catalogue
 - Chalk
 - Chipped
@@ -53,7 +52,6 @@
 - Enchantment Descriptions
 - End's Delight
 - Enderman Overhaul
-- Engineers Delight
 - Entity Culling Fabric/Forge
 - Every Compat (Wood Good)
 - Farmer's Delight
@@ -69,7 +67,6 @@
 - GeckoLib
 - Guard Villagers
 - Immersive Aircraft [Fabric/Forge]
-- Immersive Engineering
 - Inventory Sorter
 - Jade Addons (Forge)
 - Jade 🔍
@@ -87,8 +84,8 @@
 - Mouse Tweaks
 - mutil
 - Nether's Delight
+- NetherPortalFix
 - Ocean's Delight
-- Open Loader
 - Open Parties and Claims
 - Patchouli
 - Placebo
@@ -107,7 +104,7 @@
 - SuperMartijn642's Core Lib
 - Supplementaries
 - Supplementaries Squared
-- TerraBlender (Forge)
+- Terralith
 - Tetra
 - tetracelium
 - Tetranomicon
