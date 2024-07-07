@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.10.1
+
+### Changes
+
+- Fixed missing '"'
+
+
 ## 0.10.0: Clean up
 
 ### Changes

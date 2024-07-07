@@ -22,7 +22,7 @@ hash = "7bc205bd93e18869def17e382ad1da53147aba5ed908e5bf65bcd65989541536"
 
 [[files]]
 file = "kubejs/data/ad_astra/tags/worldgen/biome/has_structure/oil_well.json"
-hash = "114ddc1ad3ee1bce3c44eae244eeacb3d34b0c6e7112998644565528042e0b0c"
+hash = "7a8f1b530ff06ea62b606c32120cde6923f317d19883986390c2cad1a6d6a54b"
 
 [[files]]
 file = "kubejs/server_scripts/compat/farmers_delight.js"
