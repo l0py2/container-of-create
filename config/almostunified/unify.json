@@ -2,10 +2,10 @@
 	"modPriorities": [
 		"minecraft",
 		"kubejs",
+		"quark",
 		"thermal",
 		"create",
-		"createaddition",
-		"tfmg"
+		"createaddition"
 	],
 	"stoneStrata": [
 		"stone",

@@ -22,7 +22,7 @@ hash = "a4256f0893f7462e215dd1ba23a31ce62c30bbe2404b65b828f8829818ab2db6"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "2c39be837acefa5cb3f9acdf38d5f9d6e306f74ec0020b077b9e86ab6196ffdb"
+hash = "c9ac8f24907789308c1c044beb796ccb413fd57498268e420524a4bd8293d38c"
 
 [[files]]
 file = "config/thermal-client.toml"
@@ -37,6 +37,10 @@ file = "kubejs/client_scripts/removed_items.js"
 hash = "7bc205bd93e18869def17e382ad1da53147aba5ed908e5bf65bcd65989541536"
 
 [[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "2c21a58f28a02ea444dad2af2473b3f65241c8ba4af275abbe376e639cc73d7f"
+
+[[files]]
 file = "kubejs/data/ad_astra/tags/worldgen/biome/has_structure/oil_well.json"
 hash = "7a8f1b530ff06ea62b606c32120cde6923f317d19883986390c2cad1a6d6a54b"
 
@@ -46,7 +50,7 @@ hash = "6eba6f79dd93cd9d23ec0d6bfc6a90ba2d4854d0386b3bd990f82615e0a2c9db"
 
 [[files]]
 file = "kubejs/server_scripts/compat/oil.js"
-hash = "8ffdd6ab59f702070bd8ebf78d5d1ab82ff459e4a6a34310466b8982cf5c4c73"
+hash = "a4b37cdeae8013d38329516cd979d2282f8978d083c5f5fef71fce8567447f1f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/coins.js"
@@ -62,7 +66,7 @@ hash = "efa1924f7788ab5e49c33ab6dd7afbfdf85d0fe40dee92a8a32c8b9b5375b82d"
 
 [[files]]
 file = "kubejs/server_scripts/removed_items.js"
-hash = "cee36847072dca23b3c6dd6584684651950a25f3950e14e7bc4cfa6c8c83a356"
+hash = "3c4530c0e1a1df3048378d168d89b4b5a49119c39c58548419af246afaefefc7"
 
 [[files]]
 file = "kubejs/server_scripts/seeds_drop.js"
@@ -73,12 +77,12 @@ file = "kubejs/server_scripts/starting_items.js"
 hash = "55ac11a3a6d2450b35b7c8f41a7d35370ee7d4cfda0d51912d584f0ce961e6da"
 
 [[files]]
-file = "kubejs/startup_scripts/compat.js"
+file = "kubejs/startup_scripts/compat/farmers_delight.js"
 hash = "f9b23837e0f957a5a3b89f460ba8a2995503d03e219007b75fe0b6ec1d39f9ac"
 
 [[files]]
 file = "kubejs/startup_scripts/global.js"
-hash = "30979444b27b59f8bf539c8a79ed4f58913d925c65960b216b1e78a862169bfc"
+hash = "cb93f86746f795ee0da6b60e3b0b20dc3116db97196521baf1ee0ae4c1477342"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_ores.js"
@@ -252,11 +256,6 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "cc6024c02ab4cfcadea22833dd439456f726a23525d05ef2dfde0bb5e2d541af"
-metafile = true
-
-[[files]]
-file = "mods/create-industry.pw.toml"
-hash = "abc87586c5f25e831edcb9e510c9965e288adc22eb89f98f93c99bbb57547ef9"
 metafile = true
 
 [[files]]
@@ -627,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "1e6efbcc9bc0653d549548285eadab162435855b484fd4846adc2c38fade5aba"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
