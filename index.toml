@@ -9,6 +9,22 @@ file = "config/alexsmobs.toml"
 hash = "f9a64727415a252b7c5609e9d4918958c1bb907192e98d1601022a1e150ce008"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "6f6b7f39acbcd7a15e2a066b3c0dbafe28c568d6b94a7db5c7d3966757d3bea9"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "7bc332e0bf2747263620cb84223b7ffe8125f361ba3135ffc398d502b51a5883"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "a4256f0893f7462e215dd1ba23a31ce62c30bbe2404b65b828f8829818ab2db6"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "2c39be837acefa5cb3f9acdf38d5f9d6e306f74ec0020b077b9e86ab6196ffdb"
+
+[[files]]
 file = "config/thermal-client.toml"
 hash = "39f2b770c93956d27bee0932b50a625206043a5c3190375699bfd9829a5ec0cd"
 
@@ -46,7 +62,7 @@ hash = "efa1924f7788ab5e49c33ab6dd7afbfdf85d0fe40dee92a8a32c8b9b5375b82d"
 
 [[files]]
 file = "kubejs/server_scripts/removed_items.js"
-hash = "3c4530c0e1a1df3048378d168d89b4b5a49119c39c58548419af246afaefefc7"
+hash = "cee36847072dca23b3c6dd6584684651950a25f3950e14e7bc4cfa6c8c83a356"
 
 [[files]]
 file = "kubejs/server_scripts/seeds_drop.js"
@@ -62,12 +78,11 @@ hash = "f9b23837e0f957a5a3b89f460ba8a2995503d03e219007b75fe0b6ec1d39f9ac"
 
 [[files]]
 file = "kubejs/startup_scripts/global.js"
-hash = "edac237d231e47547fd32a66da16d23b3b474c88b91aaf21010e7e7e616e7700"
+hash = "30979444b27b59f8bf539c8a79ed4f58913d925c65960b216b1e78a862169bfc"
 
 [[files]]
-file = "mods/absent-by-design.pw.toml"
-hash = "4374330e6a885f84e16947851d9e37ec30f4e0fd431487cd934d56b1b24dc58b"
-metafile = true
+file = "kubejs/startup_scripts/remove_ores.js"
+hash = "388951fa7a57db69038f6ebaeed31c512215a97480b3d22acd8485f6e96fe60b"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -295,6 +310,11 @@ hash = "c62814ffe42bc22336b602125b1e5bd27cf8791c5df7d52320b57ab86360db0d"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "7c42037125573675148f40d1be3c2dfbbfb58065de4793828281de9cd70f0588"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "14b1ec5e16b3ce51752b10271a1457536acafdcacfeb807728478f337b34298e"
 metafile = true
@@ -360,11 +380,6 @@ hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
 metafile = true
 
 [[files]]
-file = "mods/flib.pw.toml"
-hash = "4a5b4a1d085ef0ad0d77e6c211e793f2d5cbe34e8ead3f5e7d2d089ceca207a0"
-metafile = true
-
-[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "ec1e75e28d448fba354039b37470565e9c2aefc63fde1852904c38af0b4b2136"
 metafile = true
@@ -372,6 +387,31 @@ metafile = true
 [[files]]
 file = "mods/fruits-delight.pw.toml"
 hash = "862f3cbf8d4cd9e809ac89cdff9d7d7eda0553b95488ac04abc73d208ceb4033"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "ce53103abf7f065fe965bfad755232e65add707246e53e371d8ab0fae816cba3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "1e17d92e2843cdb01a229d4987b0ef456c8a759d1e02e18f5265fd8179cbf7c2"
 metafile = true
 
 [[files]]
@@ -397,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
 metafile = true
 
 [[files]]
@@ -585,11 +630,6 @@ hash = "1e6efbcc9bc0653d549548285eadab162435855b484fd4846adc2c38fade5aba"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
-metafile = true
-
-[[files]]
 file = "mods/tetra-booster-pack.pw.toml"
 hash = "3e0cac856f0dbcbfcc7121363d0f41ebbd21e56df5ea262ebb836f5e9c9e493d"
 metafile = true
@@ -612,11 +652,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "a2b0b8b765b7d8ef735276c0c09488353da50671f3a62684b1046a052f3a8a15"
-metafile = true
-
-[[files]]
-file = "mods/thermal-dynamics.pw.toml"
-hash = "280fc16d8cbed28aff6aef45470a22b55cd64394f87eb6f59ce640e70fa27399"
 metafile = true
 
 [[files]]
@@ -647,11 +682,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "03a75c21f9f75a904e0dc846e73b6747735432d96a7b8aa9fb7177116df252e2"
-metafile = true
-
-[[files]]
-file = "mods/toms-trading-network.pw.toml"
-hash = "07ffc61ba811849e08351fafac335f4382611f6e9230b1b2349a266fd2ab697b"
 metafile = true
 
 [[files]]
@@ -717,16 +747,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "d48200a73fc05992c86bc1ec2ffd0bcf3d49f9f4cd7fc0bbc9a1599e686a47a7"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges.pw.toml"
-hash = "97a03cf27afe3b50d3b9e97b79fda3e30a6d74e3b3c3fee3db28a4d7b20bc516"
-metafile = true
-
-[[files]]
-file = "mods/yungs-extras.pw.toml"
-hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
 metafile = true
 
 [[files]]
