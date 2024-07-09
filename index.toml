@@ -45,6 +45,10 @@ file = "kubejs/data/ad_astra/tags/worldgen/biome/has_structure/oil_well.json"
 hash = "7a8f1b530ff06ea62b606c32120cde6923f317d19883986390c2cad1a6d6a54b"
 
 [[files]]
+file = "kubejs/server_scripts/compat/dusts.js"
+hash = "97adbe9f2311ea598a1f40659b279bb172d4ac212d308bf886061af747ca2ebd"
+
+[[files]]
 file = "kubejs/server_scripts/compat/farmers_delight.js"
 hash = "6eba6f79dd93cd9d23ec0d6bfc6a90ba2d4854d0386b3bd990f82615e0a2c9db"
 
@@ -82,7 +86,7 @@ hash = "f9b23837e0f957a5a3b89f460ba8a2995503d03e219007b75fe0b6ec1d39f9ac"
 
 [[files]]
 file = "kubejs/startup_scripts/global.js"
-hash = "cb93f86746f795ee0da6b60e3b0b20dc3116db97196521baf1ee0ae4c1477342"
+hash = "5083df3aba7d70f4190077f31973cb1aa8f1c1a7cf3eeffccdbe5e787c5ad23c"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_ores.js"
@@ -394,23 +398,8 @@ hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
 metafile = true
 
 [[files]]
-file = "mods/ftb-quests-forge.pw.toml"
-hash = "ce53103abf7f065fe965bfad755232e65add707246e53e371d8ab0fae816cba3"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
-metafile = true
-
-[[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
-metafile = true
-
-[[files]]
-file = "mods/ftb-xmod-compat.pw.toml"
-hash = "1e17d92e2843cdb01a229d4987b0ef456c8a759d1e02e18f5265fd8179cbf7c2"
 metafile = true
 
 [[files]]
@@ -436,11 +425,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
-metafile = true
-
-[[files]]
-file = "mods/item-filters.pw.toml"
-hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
 metafile = true
 
 [[files]]
