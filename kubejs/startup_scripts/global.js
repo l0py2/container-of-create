@@ -1,8 +1,5 @@
 // prioriry: 0
 
-global.removedOres = [
-];
-
 global.removedItems = [
 	'ad_astra:coal_generator',
 	'ad_astra:compressor',
@@ -50,12 +47,10 @@ global.removedItems = [
 	'thermal:machine_press',
 	'thermal:potato_block',
 	'thermal:sushi_maki',
-	/^thermal:dynamo_(?!stirling).*/,
+	/^thermal:dynamo_.*/,
 	/^thermal:flax.*/,
 	/^thermal:onion.*/,
 	/^thermal:press_.*_die$/,
 	/^thermal:rice.*/,
 	/^thermal:tomato.*/
 ];
-
-global.removedItems = global.removedItems.concat(global.removedOres);

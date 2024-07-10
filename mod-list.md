@@ -1,6 +1,5 @@
 # Mod list
 
-- Absent by Design
 - Ad Astra
 - Ad Tetra!
 - Alex's Delight
@@ -40,7 +39,6 @@
 - Create: Connected
 - Create: New Age
 - Create: Steam 'n' Rails
-- Create: The Factory Must Grow
 - Creeper Overhaul
 - Cupboard
 - Curios API (Forge/NeoForge)
@@ -48,6 +46,7 @@
 - Deeper and Darker
 - Delightful
 - Embeddium
+- Embeddium/Rubidium Dynamic Lights
 - EMI
 - Enchantment Descriptions
 - End's Delight
@@ -60,9 +59,10 @@
 - FastWorkbench
 - FerriteCore ((Neo)Forge)
 - FindMe
-- FLIB
 - FramedBlocks
 - Fruits Delight
+- FTB Library (Forge)
+- FTB Ultimine (Forge)
 - Fusion (Connected Textures)
 - GeckoLib
 - Guard Villagers
@@ -109,14 +109,12 @@
 - tetracelium
 - Tetranomicon
 - Thermal Cultivation
-- Thermal Dynamics
 - Thermal Expansion
 - Thermal Foundation
 - Thermal Innovation
 - Thermal Integration
 - Thermal Locomotion
 - Tom's Simple Storage Mod
-- Tom's Trading Network
 - Vertical Slabs Compat
 - Withering Boon for Tetra
 - Xaero's Minimap
@@ -131,6 +129,4 @@
 - YUNG's Better Ocean Monuments (Forge)
 - YUNG's Better Strongholds (Forge)
 - YUNG's Better Witch Huts (Forge)
-- YUNG's Bridges (Forge)
-- YUNG's Extras (Forge)
 - Zeta

@@ -1,5 +1,30 @@
 # Changelog
 
+## 0.11.0: Better integration
+
+### Changes
+
+- Unified common tags
+- Removed all Thermal series dynamos
+- Added default options based on my preference
+
+### Mods added
+
+- Embeddium/Rubidium Dynamic Lights
+- FTB Library (Forge)
+- FTB Ultimine (Forge)
+
+### Mods removed
+
+- Absent by Design
+- Create: The Factory Must Grow
+- FLIB
+- Thermal Dynamics
+- Tom's Trading Network
+- YUNG's Bridges (Forge)
+- YUNG's Extras (Forge)
+
+
 ## 0.10.1
 
 ### Changes

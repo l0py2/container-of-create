@@ -45,12 +45,12 @@ file = "kubejs/data/ad_astra/tags/worldgen/biome/has_structure/oil_well.json"
 hash = "7a8f1b530ff06ea62b606c32120cde6923f317d19883986390c2cad1a6d6a54b"
 
 [[files]]
-file = "kubejs/server_scripts/compat/dusts.js"
-hash = "97adbe9f2311ea598a1f40659b279bb172d4ac212d308bf886061af747ca2ebd"
-
-[[files]]
 file = "kubejs/server_scripts/compat/farmers_delight.js"
 hash = "6eba6f79dd93cd9d23ec0d6bfc6a90ba2d4854d0386b3bd990f82615e0a2c9db"
+
+[[files]]
+file = "kubejs/server_scripts/compat/materials.js"
+hash = "c8d690fc6f4b7ab45cc4897002d9be2bd940371147c137099fc9f89ac4de3d6b"
 
 [[files]]
 file = "kubejs/server_scripts/compat/oil.js"
@@ -70,7 +70,7 @@ hash = "efa1924f7788ab5e49c33ab6dd7afbfdf85d0fe40dee92a8a32c8b9b5375b82d"
 
 [[files]]
 file = "kubejs/server_scripts/removed_items.js"
-hash = "3c4530c0e1a1df3048378d168d89b4b5a49119c39c58548419af246afaefefc7"
+hash = "2f532b70450ac138c25aa2f90b5e5373d28ae1fdebd2456de193a70cc3fa83c7"
 
 [[files]]
 file = "kubejs/server_scripts/seeds_drop.js"
@@ -86,11 +86,7 @@ hash = "f9b23837e0f957a5a3b89f460ba8a2995503d03e219007b75fe0b6ec1d39f9ac"
 
 [[files]]
 file = "kubejs/startup_scripts/global.js"
-hash = "5083df3aba7d70f4190077f31973cb1aa8f1c1a7cf3eeffccdbe5e787c5ad23c"
-
-[[files]]
-file = "kubejs/startup_scripts/remove_ores.js"
-hash = "388951fa7a57db69038f6ebaeed31c512215a97480b3d22acd8485f6e96fe60b"
+hash = "4411e47dde0a0552039e1a23cc905367126ca8aa93bf37de9ec77ca8f88f3a23"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -114,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "eca74eb8bebd821fc4c0bf9688c9f067c1cc5be4581365727cf2a828eabf19f5"
+hash = "6c1abc7203698f420023a1655bc803113babd2dc00b2ced0e071de8b46147b5a"
 metafile = true
 
 [[files]]
@@ -339,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "05bd2cd6cfe475dda10434109bd5aba325655d0df4935a4a6b77ef760a58f94d"
+hash = "e9e27cd59511408fa69068ab0ac740069a045b0bad138e59a7949528917a63a4"
 metafile = true
 
 [[files]]
