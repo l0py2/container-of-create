@@ -15,9 +15,7 @@ ServerEvents.blockLootTables(event => {
 		'thermal:hops_seeds',
 		'thermal:tea_seeds',
 		'thermal:frost_melon_seeds',
-		'minecraft:wheat_seeds',
-		'minecraft:beetroot_seeds',
-		'immersiveengineering:seed'
+		'minecraft:wheat_seeds'
 	];
 
 	const grasses = [

@@ -50,7 +50,7 @@ hash = "6eba6f79dd93cd9d23ec0d6bfc6a90ba2d4854d0386b3bd990f82615e0a2c9db"
 
 [[files]]
 file = "kubejs/server_scripts/compat/materials.js"
-hash = "c8d690fc6f4b7ab45cc4897002d9be2bd940371147c137099fc9f89ac4de3d6b"
+hash = "70a3bf12a5b047466c1a2dec96c7611d5688ec808e32886052c2a02674ef23d1"
 
 [[files]]
 file = "kubejs/server_scripts/compat/oil.js"
@@ -66,7 +66,7 @@ hash = "e8472d38fc4bce4b3505c137d7b4577ee0e937740ecc16cdaa97f32c1ea61613"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/qol.js"
-hash = "efa1924f7788ab5e49c33ab6dd7afbfdf85d0fe40dee92a8a32c8b9b5375b82d"
+hash = "82c13e68bc92a97915e85255405dffd9340368c41a9cd78b989600919ee46df1"
 
 [[files]]
 file = "kubejs/server_scripts/removed_items.js"
@@ -74,7 +74,7 @@ hash = "2f532b70450ac138c25aa2f90b5e5373d28ae1fdebd2456de193a70cc3fa83c7"
 
 [[files]]
 file = "kubejs/server_scripts/seeds_drop.js"
-hash = "fcf5524ada4f6504344e1415e7cca187a13a031667a6c4f417c1f12f0bff4462"
+hash = "cca405d3a3236cc34380d5204240f36bdd5209b54dcbd414ccc6a5323da3e490"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
@@ -86,7 +86,7 @@ hash = "f9b23837e0f957a5a3b89f460ba8a2995503d03e219007b75fe0b6ec1d39f9ac"
 
 [[files]]
 file = "kubejs/startup_scripts/global.js"
-hash = "4411e47dde0a0552039e1a23cc905367126ca8aa93bf37de9ec77ca8f88f3a23"
+hash = "9af7e2542b95385fa58d298fd3005a34cb2feb8522533b2c5a1dd294ce78ebc7"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"

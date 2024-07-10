@@ -1,14 +1,38 @@
 ServerEvents.recipes(event => {
-	const gems = [
-		'apatite',
-		'cinnabar',
+	function gearCompacting(input, output) {
+		event.recipes.create.compacting(
+			[
+				'thermal:press_gear_die',
+				output
+			],
+			[
+				'thermal:press_gear_die',
+				`4x ${input}`
+			]
+		);
+	}
+
+	const gemsWithGears = [
 		'diamond',
 		'emerald',
 		'lapis',
-		'niter',
 		'quartz',
 		'ruby',
-		'sapphire',
+		'sapphire'
+	];
+
+	gemsWithGears.forEach(gem => {
+		gearCompacting(`#forge:gems/${gem}`, `thermal:${gem}_gear`);
+
+		event.recipes.create.crushing(`thermal:${gem}_dust`, `#forge:gems/${gem}`);
+		event.recipes.create.crushing(`4x thermal:${gem}_dust`, `#forge:gears/${gem}`);
+	});
+
+	const gems = [
+		'apatite',
+		'cinnabar',
+		'lapis',
+		'niter',
 		'sulfur'
 	];
 
@@ -37,10 +61,12 @@ ServerEvents.recipes(event => {
 	];
 
 	ores.forEach(ore => {
+		gearCompacting(`#forge:ingots/${ore}`, `thermal:${ore}_gear`);
+
 		event.recipes.create.pressing(`thermal:${ore}_plate`, `#forge:ingots/${ore}`);
 		event.recipes.create.crushing(`thermal:${ore}_dust`, `#forge:ingots/${ore}`);
 		event.recipes.create.crushing(`thermal:${ore}_dust`, `#forge:plates/${ore}`);
-		event.recipes.create.crushing(`thermal:${ore}_dust`, `#forge:gears/${ore}`);
+		event.recipes.create.crushing(`4x thermal:${ore}_dust`, `#forge:gears/${ore}`);
 	});
 
 	event.remove({ output: 'ad_astra:steel_rod' });

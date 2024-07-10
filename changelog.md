@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.11.1: Better integration
+
+### Changes
+
+- Added crafting recipe for the saddle
+- Added press recipe for Thermal series gears
+- Added smelting recipe for leather
+
+
 ## 0.11.0: Better integration
 
 ### Changes
