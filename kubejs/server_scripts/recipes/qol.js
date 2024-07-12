@@ -1,6 +1,4 @@
 ServerEvents.recipes(event => {
-	event.smelting('minecraft:green_dye', 'minecraft:seagrass');
-
 	event.remove({ input: 'minecraft:rotten_flesh', output: 'minecraft:leather' });
 	event.smelting('minecraft:leather', 'minecraft:rotten_flesh');
 
@@ -15,5 +13,10 @@ ServerEvents.recipes(event => {
 			A: 'minecraft:leather',
 			B: 'minecraft:iron_nugget'
 		}
+	);
+
+	event.shapeless(
+		'minecraft:name_tag',
+		['minecraft:string', 'minecraft:slime_ball', 'minecraft:paper']
 	);
 });

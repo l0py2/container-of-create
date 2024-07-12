@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.11.2: Better integration
+
+### Changes
+
+- Added recipe for name tag
+- Removed recipe to smelt sea grass into green dye
+
+
 ## 0.11.1: Better integration
 
 ### Changes

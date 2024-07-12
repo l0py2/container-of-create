@@ -66,7 +66,7 @@ hash = "e8472d38fc4bce4b3505c137d7b4577ee0e937740ecc16cdaa97f32c1ea61613"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/qol.js"
-hash = "82c13e68bc92a97915e85255405dffd9340368c41a9cd78b989600919ee46df1"
+hash = "281b253474132cbb1b060353f3dea5b55c7651ac888f51ddf8acd700a8837e30"
 
 [[files]]
 file = "kubejs/server_scripts/removed_items.js"
