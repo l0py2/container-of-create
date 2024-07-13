@@ -79,6 +79,7 @@
 - KubeJS Create
 - KubeJS Thermal
 - Leaves Be Gone [Forge & Fabric]
+- Lootr (Forge & NeoForge)
 - Miner's Delight +
 - Moonlight Lib
 - Mouse Tweaks

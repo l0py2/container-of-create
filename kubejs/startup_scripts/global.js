@@ -43,15 +43,12 @@ global.removedItems = [
 	'thermal:fluid_cell_frame',
 	'thermal:fluid_minecart',
 	'thermal:gunpowder_block',
-	'thermal:machine_crafter',
-	'thermal:machine_press',
 	'thermal:potato_block',
 	'thermal:satchel',
 	'thermal:sushi_maki',
 	/^thermal:dynamo_.*/,
 	/^thermal:flax.*/,
 	/^thermal:onion.*/,
-	/^thermal:press_(?!gear).*_die$/,
 	/^thermal:rice.*/,
 	/^thermal:tomato.*/
 ];

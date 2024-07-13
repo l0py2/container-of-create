@@ -1,13 +1,13 @@
 name = "Art of Forging: A Tetra Addon"
-filename = "art_of_forging-1.8.1-1.20.1.jar"
+filename = "art_of_forging-1.8.2-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6e76a01175d553f76fbc42321e243ddad667b9d0"
+hash = "30713f1c7f49a6f676d10fa352c4fbe67ce85bb9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5500194
+file-id = 5521474
 project-id = 596955

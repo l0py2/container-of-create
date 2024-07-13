@@ -50,7 +50,7 @@ hash = "6eba6f79dd93cd9d23ec0d6bfc6a90ba2d4854d0386b3bd990f82615e0a2c9db"
 
 [[files]]
 file = "kubejs/server_scripts/compat/materials.js"
-hash = "70a3bf12a5b047466c1a2dec96c7611d5688ec808e32886052c2a02674ef23d1"
+hash = "2696e41a38e4bb6ed3a8caae5b983f160cda4e0bc58e9268a32e3b1a5aba1e4a"
 
 [[files]]
 file = "kubejs/server_scripts/compat/oil.js"
@@ -86,7 +86,7 @@ hash = "f9b23837e0f957a5a3b89f460ba8a2995503d03e219007b75fe0b6ec1d39f9ac"
 
 [[files]]
 file = "kubejs/startup_scripts/global.js"
-hash = "9af7e2542b95385fa58d298fd3005a34cb2feb8522533b2c5a1dd294ce78ebc7"
+hash = "2461aad7a9e5fbbca241b430512a6342326384125327236a092cc7db4a9b9338"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/art-of-forging-a-tetra-addon.pw.toml"
-hash = "0b4fb1eefdf263e149ec42a6f6fb99746ac7fa7e28596355b050a9e4a492a2c9"
+hash = "7191ce1f59898725c3db97208d9071a4b8ee901f581d5d8a6e7b5a25fc09dd3b"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful.pw.toml"
-hash = "c62814ffe42bc22336b602125b1e5bd27cf8791c5df7d52320b57ab86360db0d"
+hash = "d837c95bc0825ccef37712217cf13a8a983c046a1123aa0c7353fd91309a1484"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "14b1ec5e16b3ce51752b10271a1457536acafdcacfeb807728478f337b34298e"
+hash = "df9fa54fc9635b60d8788138da56e972dabb350e6b55e0ce6709c29f029926d6"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fe0c032092af5482bd2255148c55ed5b9fabdfeccff4fe24f2faf488d04c5d15"
+hash = "8e564ffebd3892f46ebad830733cb9f68e45895c53da42526aec2cbe7b5a9707"
 metafile = true
 
 [[files]]
@@ -476,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "bbba6ac677c4e82b397501e4db188fadcafc4dacff02b835e4b8a44ffcc9a3c7"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "3ce0ee2fd738c392ec888583533d0e35b808c6838ccc01a3e7c0068dffcd267b"
 metafile = true
 
 [[files]]
@@ -570,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
+hash = "6068cdff2ed4152619680b61ec139e35ac3ef3f867ec34c3a1fc41a24b446465"
 metafile = true
 
 [[files]]

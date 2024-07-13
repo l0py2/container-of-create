@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.12.0: Quality of life
+
+### Changes
+
+- Added missing pulverization recipes
+- Revered Multiservo Press removal
+- Reverted Sequential Fabricator removal
+
+### Mods added
+
+- Lootr (Forge & NeoForge)
+
+
+
 ## 0.11.2: Better integration
 
 ### Changes

@@ -1,4 +1,6 @@
 ServerEvents.recipes(event => {
+	const pulverizerEnergyCost = 2000;
+
 	function gearCompacting(input, output) {
 		event.recipes.create.compacting(
 			[
@@ -26,6 +28,7 @@ ServerEvents.recipes(event => {
 
 		event.recipes.create.crushing(`thermal:${gem}_dust`, `#forge:gems/${gem}`);
 		event.recipes.create.crushing(`4x thermal:${gem}_dust`, `#forge:gears/${gem}`);
+		event.recipes.thermal.pulverizer(`4x thermal:${gem}_dust`, `#forge:gears/${gem}`).energy(pulverizerEnergyCost);
 	});
 
 	const gems = [
@@ -67,6 +70,7 @@ ServerEvents.recipes(event => {
 		event.recipes.create.crushing(`thermal:${ore}_dust`, `#forge:ingots/${ore}`);
 		event.recipes.create.crushing(`thermal:${ore}_dust`, `#forge:plates/${ore}`);
 		event.recipes.create.crushing(`4x thermal:${ore}_dust`, `#forge:gears/${ore}`);
+		event.recipes.thermal.pulverizer(`4x thermal:${ore}_dust`, `#forge:gears/${ore}`).energy(pulverizerEnergyCost);
 	});
 
 	event.remove({ output: 'ad_astra:steel_rod' });
