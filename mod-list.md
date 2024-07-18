@@ -1,7 +1,6 @@
 # Mod list
 
 - Ad Astra
-- Ad Tetra!
 - Alex's Delight
 - Alex's Mobs
 - Almost Unified
@@ -14,19 +13,15 @@
 - Art of Forging: A Tetra Addon
 - Athena
 - Balm (Forge Edition)
-- Better Fps - Render Distance[Forge]
 - Bookshelf
 - Botarium
 - Canary
-- Catalogue
 - Chalk
 - Chipped
 - Citadel
 - Client Crafting
 - CoFH Core
 - Comforts (Fabric/Forge/Quilt)
-- Configured
-- Connectivity[Forge/Fabric]
 - Controlling
 - Corpse
 - Crafting Tweaks
@@ -40,7 +35,6 @@
 - Create: New Age
 - Create: Steam 'n' Rails
 - Creeper Overhaul
-- Cupboard
 - Curios API (Forge/NeoForge)
 - Decorative Blocks
 - Deeper and Darker
@@ -107,7 +101,7 @@
 - Supplementaries Squared
 - Terralith
 - Tetra
-- tetracelium
+- Tetra's Delight
 - Tetranomicon
 - Thermal Cultivation
 - Thermal Expansion

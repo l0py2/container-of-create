@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.13.0: Better integration
+
+### Changes
+
+- Added dripstone generation to Igneous Extruder
+- Added choping recipe for pointed dripstone using pickaxes
+
+### Mods removed
+
+- Better Fps - Render Distance[Forge]
+- Catalogue
+- Configured
+- Connectivity[Forge/Fabric]
+- Cupboard
+
+
 ## 0.12.0: Quality of life
 
 ### Changes

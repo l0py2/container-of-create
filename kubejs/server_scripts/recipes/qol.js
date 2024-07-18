@@ -19,4 +19,32 @@ ServerEvents.recipes(event => {
 		'minecraft:name_tag',
 		['minecraft:string', 'minecraft:slime_ball', 'minecraft:paper']
 	);
+
+	event.custom({
+		type: 'farmersdelight:cutting',
+		ingredients: [
+			{
+				item: 'minecraft:dripstone_block'
+			}
+		],
+		result: [
+			{
+				count: 4,
+				item: 'minecraft:pointed_dripstone'
+			}
+		],
+		tool: {
+			type: 'farmersdelight:tool_action',
+			action: 'pickaxe_dig'
+		}
+	});
+
+	event.custom({
+		type: 'thermal:rock_gen',
+		adjacent: 'minecraft:water',
+		below: 'minecraft:dripstone_block',
+		result: {
+			item: 'minecraft:dripstone_block'
+		}
+	});
 });
