@@ -95,6 +95,7 @@
 - Sophisticated Backpacks
 - Sophisticated Core
 - Sophisticated Storage
+- Spice of Life: Carrot Edition
 - SuperMartijn642's Config Lib
 - SuperMartijn642's Core Lib
 - Supplementaries

@@ -4,6 +4,7 @@
 
 ### Added mods
 
+- Spice of Life: Carrot Edition
 - tetracelium
 
 
