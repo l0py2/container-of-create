@@ -599,6 +599,11 @@ hash = "7cd5ba3f6e15a5bb367a6e7e3549f2f89b86e8936fc1e3de959ce47068abd991"
 metafile = true
 
 [[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "ac57aa765179cd46a344f31c549e7626426fc5bdff9cecc9da10bc4c00ea0a86"
+metafile = true
+
+[[files]]
 file = "mods/tetranomicon.pw.toml"
 hash = "aad2682b1c54883c1a48e288782281b694c4ce1c630ddbfdad11ee2429562fbe"
 metafile = true

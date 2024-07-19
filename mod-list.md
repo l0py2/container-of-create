@@ -102,6 +102,7 @@
 - Terralith
 - Tetra
 - Tetra's Delight
+- tetracelium
 - Tetranomicon
 - Thermal Cultivation
 - Thermal Expansion

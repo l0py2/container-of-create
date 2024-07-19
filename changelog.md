@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.14.0: Better integration
+
+### Added mods
+
+- tetracelium
+
+
 ## 0.13.0: Better integration
 
 ### Changes
