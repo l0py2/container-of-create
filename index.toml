@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7a966752a5e3437819daf1f402b197939a8de42ebb6f9d5ad043a742592335bc"
+hash = "736001722b34ea7c64b35a31e036426270d7674748ede4309ad38d4955886aef"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "7cd5ba3f6e15a5bb367a6e7e3549f2f89b86e8936fc1e3de959ce47068abd991"
+hash = "85a71671d0de5a84f67b7b9b14d7582c7b73967feea8301a180867496aa7e535"
 metafile = true
 
 [[files]]
