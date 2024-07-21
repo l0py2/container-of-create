@@ -17,7 +17,7 @@ ServerEvents.recipes(event => {
 
 	event.shapeless(
 		'minecraft:name_tag',
-		['minecraft:string', 'minecraft:slime_ball', 'minecraft:paper']
+		['minecraft:string', 'minecraft:paper']
 	);
 
 	event.custom({
@@ -39,12 +39,17 @@ ServerEvents.recipes(event => {
 		}
 	});
 
-	event.custom({
-		type: 'thermal:rock_gen',
-		adjacent: 'minecraft:water',
-		below: 'minecraft:dripstone_block',
-		result: {
-			item: 'minecraft:dripstone_block'
-		}
-	});
+	function igneousExtruder(rock) {
+		event.custom({
+			type: 'thermal:rock_gen',
+			adjacent: 'minecraft:water',
+			below: rock,
+			result: {
+				item: rock
+			}
+		});
+	}
+
+	igneousExtruder('minecraft:dripstone_block');
+	igneousExtruder('minecraft:tuff');
 });

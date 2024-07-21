@@ -24,7 +24,7 @@ ServerEvents.blockLootTables(event => {
 	];
 
 	grasses.forEach(grass => {
-		event.addBlock(grass, table => {
+		event.modifyBlock(grass, table => {
 			table.addPool(pool => {
 				pool.survivesExplosion();
 

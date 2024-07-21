@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.15.0: Better integration
+
+### Changes
+
+- Added Ingneous Extruder recipe for tuff
+- Fixed grass loot table
+
+
 ## 0.14.0: Better integration
 
 ### Added mods
@@ -35,7 +43,6 @@
 ### Mods added
 
 - Lootr (Forge & NeoForge)
-
 
 
 ## 0.11.2: Better integration
