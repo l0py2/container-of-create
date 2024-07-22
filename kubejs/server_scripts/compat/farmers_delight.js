@@ -13,21 +13,3 @@ ServerEvents.tags('item', event => {
 		tags.forEach(tag => event.add(tag, knife));
 	});
 });
-
-ServerEvents.recipes(event => {
-	event.remove({ output: 'aquaculture:sushi' });
-
-	event.shaped(
-		'aquaculture:sushi',
-		[
-			' A ',
-			' B ',
-			'CCC'
-		],
-		{
-			A: 'farmersdelight:cooked_rice',
-			B: 'aquaculture:fish_fillet_raw',
-			C: 'minecraft:dried_kelp'
-		}
-	);
-});

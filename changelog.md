@@ -5,7 +5,13 @@
 ### Changes
 
 - Added Ingneous Extruder recipe for tuff
+- Added haunting recipe for withered bones
 - Fixed grass loot table
+
+### Removed mods
+
+- Aquaculture 2
+- Spice of Life: Carrot Edition
 
 
 ## 0.14.0: Better integration

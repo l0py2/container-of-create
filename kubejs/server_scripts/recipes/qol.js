@@ -52,4 +52,6 @@ ServerEvents.recipes(event => {
 
 	igneousExtruder('minecraft:dripstone_block');
 	igneousExtruder('minecraft:tuff');
+
+	event.recipes.create.haunting('architects_pallete:withered_bone', 'minecraft:bone');
 });

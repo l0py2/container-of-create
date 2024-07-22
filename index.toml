@@ -46,7 +46,7 @@ hash = "7a8f1b530ff06ea62b606c32120cde6923f317d19883986390c2cad1a6d6a54b"
 
 [[files]]
 file = "kubejs/server_scripts/compat/farmers_delight.js"
-hash = "6eba6f79dd93cd9d23ec0d6bfc6a90ba2d4854d0386b3bd990f82615e0a2c9db"
+hash = "db1d2a632ff44a424ffb3605a58e8acb38a591b539fccb78381f07419ff88f8e"
 
 [[files]]
 file = "kubejs/server_scripts/compat/materials.js"
@@ -66,7 +66,7 @@ hash = "e8472d38fc4bce4b3505c137d7b4577ee0e937740ecc16cdaa97f32c1ea61613"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/qol.js"
-hash = "9dcae755af3ea0abb72f92366882e8ca5e4760c9f046e465ea576f5853958f34"
+hash = "1244813603f72033596c81a814a2b2ff2ca03f3684a3f4936532d42286afcf1f"
 
 [[files]]
 file = "kubejs/server_scripts/removed_items.js"
@@ -81,12 +81,8 @@ file = "kubejs/server_scripts/starting_items.js"
 hash = "55ac11a3a6d2450b35b7c8f41a7d35370ee7d4cfda0d51912d584f0ce961e6da"
 
 [[files]]
-file = "kubejs/startup_scripts/compat/farmers_delight.js"
-hash = "f9b23837e0f957a5a3b89f460ba8a2995503d03e219007b75fe0b6ec1d39f9ac"
-
-[[files]]
 file = "kubejs/startup_scripts/global.js"
-hash = "2461aad7a9e5fbbca241b430512a6342326384125327236a092cc7db4a9b9338"
+hash = "fd16bf371b68f4caf304bbe80524c0d6708509944f9eaaefa4571168edd459de"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -121,11 +117,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
-metafile = true
-
-[[files]]
-file = "mods/aquaculture.pw.toml"
-hash = "a970ca6ffa0d4d985bc0bcb2e6b51c8a156e6e2a1118c924a4d5c213c9afd15c"
 metafile = true
 
 [[files]]
@@ -561,11 +552,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
-metafile = true
-
-[[files]]
-file = "mods/spice-of-life-carrot-edition.pw.toml"
-hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
 metafile = true
 
 [[files]]
