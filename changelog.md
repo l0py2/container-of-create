@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.15.1
+
+### Changes
+
+- Fixed withered bones recipe
+
+
 ## 0.15.0: Better integration
 
 ### Changes

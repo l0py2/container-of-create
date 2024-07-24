@@ -66,7 +66,7 @@ hash = "e8472d38fc4bce4b3505c137d7b4577ee0e937740ecc16cdaa97f32c1ea61613"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/qol.js"
-hash = "1244813603f72033596c81a814a2b2ff2ca03f3684a3f4936532d42286afcf1f"
+hash = "9d6dab7f2d6f036d1f2152403285841138ae147545d46b83433a3222f7f947ea"
 
 [[files]]
 file = "kubejs/server_scripts/removed_items.js"
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "454a06dd8f4f896dc23545a1ea4dcf304ca1265cdfe6c98b729d2943fb0b0341"
+hash = "c9a1b8b06cb1cdceeea4dff51db30f91d682bfadae03917fd73bb5ec0ebc833e"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "99ec1ad847151fb49874cdc9f41f507cb56608dbaf006c939b81a216381b0178"
+hash = "9789c8c768a69d21a6655501bc64572befc811d6a24a29ea2f7e5bc7f38e7efd"
 metafile = true
 
 [[files]]
