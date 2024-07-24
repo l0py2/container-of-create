@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.16.0: Magical improvements
+
+### Added mods
+
+- Apotheosis
+- Apothic Attributes (AttributesLib)
+- Ars Creo
+- Ars Elemental
+- Ars Nouveau
+- Ars Scalaes
+- Pehkui
+- The Twilight Forest
+- Twilight's Flavors & Delight
+
+
 ## 0.15.1
 
 ### Changes

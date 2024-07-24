@@ -25,6 +25,42 @@ file = "config/almostunified/unify.json"
 hash = "c9ac8f24907789308c1c044beb796ccb413fd57498268e420524a4bd8293d38c"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "65edeef2580f7f05d2d75cce9901fa3e1dae27da7f0d85974dd44e07ff320a00"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "5e9f9f1022e1707ed6b1930508384572fe42c659e331bfa8fe2e84f6aa2fb246"
+
+[[files]]
+file = "config/apotheosis/ench.cfg"
+hash = "557cc1b6ba1369f5d2459054cc2b9e9f91c58b9cdecb0a3023a911b435b1a9c8"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "b2f4a52bf070ea78d8bc1709ded084f8aff1250b0ba301ac2df7458c66f50b8e"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "dea4d260e6eac868297c0f9cd80545fd6b54f7344c678b89edda980a3fc5e8cf"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "bb94cff54e850d8985072c7f77cdab03a3987300a2dfdbfb43e8224a4b8ef033"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "c5f6fd0d38e12617717494712d00a8539b2120a9bef73535d2a7821a933a496c"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "2754c23d924e54503f79735a93c024cadf2a1a2e1ab0fa4acc6c49d4012c5d44"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "9c06164bad9a22d779a4986dc231071e7a9d3bc8f1d7d67fa277999e510d2a78"
+
+[[files]]
 file = "config/thermal-client.toml"
 hash = "39f2b770c93956d27bee0932b50a625206043a5c3190375699bfd9829a5ec0cd"
 
@@ -115,6 +151,16 @@ hash = "c514f491ac1d393df5bcdbefef1d91a4e96c4e5cea74f78d1e8d9bf9e43dd966"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "bfff4a8be74c7d02e62cc7ba3b75183dbbff98e550dfc648d49f9f721688e730"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "ad85f1847b402498fdad38731c632ca0167ccbdade0c1884776aa5ee88463f28"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -127,6 +173,26 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "b4cc8e095b7f51683e7938042c97cae5a281fa353a4fb421a8182b39de08825f"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "cdc89fa5b74cf556ccd5bc191d235dc59cfb7557408d99da3527e4127a46e193"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "49d61232f33cbc7303469d09678a6bdac49ee54c91763d1f46bec34790a174cf"
+metafile = true
+
+[[files]]
+file = "mods/ars-scalaes.pw.toml"
+hash = "3e14c91a070694a0da371e90af636e48a57d5c0ac38406cc59b899a47e3e2219"
 metafile = true
 
 [[files]]
@@ -266,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful.pw.toml"
-hash = "07711e00f50d9c1b6834f61a3ab20d177a378b8a2f3c9d5d3fe25ea8fcd5f51e"
+hash = "629ae402d35aaf4dffd6fdee7529495a2f4dbf24b50ac1d8ed6ebff76a0c88e4"
 metafile = true
 
 [[files]]
@@ -485,6 +551,11 @@ hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true
@@ -605,6 +676,11 @@ hash = "07c4fff4a24c28c775d004af359483468ff1046189c357b52e63f4fc61be1abd"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "a2b0b8b765b7d8ef735276c0c09488353da50671f3a62684b1046a052f3a8a15"
 metafile = true
@@ -637,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "5a7cbd5bc7dd5ac36cdb21f225e746d67bfb76523ca570afe78a5e421839040a"
+metafile = true
+
+[[files]]
+file = "mods/twilights-flavors-delight.pw.toml"
+hash = "71d07bf68cf8f1f3beb2003f3df38c3ecaff1779585e1cfaff1ba4c571ba6456"
 metafile = true
 
 [[files]]
