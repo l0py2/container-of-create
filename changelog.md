@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.17.0: Simplification
+## 0.17.0: Decoration and simplification
 
 ### Added mods
 
