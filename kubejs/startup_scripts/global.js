@@ -5,27 +5,14 @@ global.removedItems = [
 	'ad_astra:compressor',
 	'ad_astra:energizer',
 	'ad_astra:etrionic_blast_furnace',
-	'ad_astra:iron_plate',
-	'ad_astra:iron_rod',
 	'ad_astra:oil_bucket',
-	'ad_astra:steel_ingot',
-	'ad_astra:steel_nugget',
-	'ad_astra:steel_plate',
-	'create:copper_nugget',
-	'create:copper_sheet',
-	'create:golden_sheet',
-	'create:iron_sheet',
 	'create_new_age:copper_wire',
 	'create_new_age:electrical_connector',
 	'create_new_age:overcharged_diamond_wire',
 	'create_new_age:overcharged_golden_wire',
 	'create_new_age:overcharged_iron_wire',
 	'createaddition:alternator',
-	'createaddition:diamond_grit',
 	'createaddition:electric_motor',
-	'createaddition:electrum_ingot',
-	'createaddition:electrum_nugget',
-	'createaddition:electrum_sheet',
 	'thermal:apple_block',
 	'thermal:bamboo_block',
 	'thermal:beetroot_block',
@@ -46,4 +33,12 @@ global.removedItems = [
 	/^thermal:onion.*/,
 	/^thermal:rice.*/,
 	/^thermal:tomato.*/
+];
+
+global.removedRecipeTypes = [
+	'ad_astra:alloying',
+	'ad_astra:compressing',
+	'thermal:compression_fuel',
+	'thermal:lapidary_fuel',
+	'thermal:magmatic_fuel'
 ];

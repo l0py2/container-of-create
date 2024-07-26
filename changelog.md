@@ -1,5 +1,26 @@
 # Changelog
 
+## 0.17.0: Simplification
+
+### Added mods
+
+- Functional Armor Trim
+- Handcrafted
+
+### Removed mods
+
+- Apotheosis
+- Apothic Attributes (AttributesLib)
+- Ars Creo
+- Ars Elemental
+- Ars Nouveau
+- Ars Scalaes
+- Deeper and Darker
+- Pehkui
+- The Twilight Forest
+- Twilight's Flavors & Delight
+
+
 ## 0.16.0: Magical improvements
 
 ### Added mods

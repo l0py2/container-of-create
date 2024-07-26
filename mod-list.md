@@ -6,15 +6,9 @@
 - Almost Unified
 - Alternate Current
 - Amendments
-- Apotheosis
-- Apothic Attributes (AttributesLib)
 - AppleSkin
 - Architect's Palette
 - Architectury API (Fabric/Forge/NeoForge)
-- Ars Creo
-- Ars Elemental
-- Ars Nouveau
-- Ars Scalaes
 - Art of Forging: A Tetra Addon
 - Athena
 - Balm (Forge Edition)
@@ -42,7 +36,6 @@
 - Creeper Overhaul
 - Curios API (Forge/NeoForge)
 - Decorative Blocks
-- Deeper and Darker
 - Delightful
 - Embeddium
 - Embeddium/Rubidium Dynamic Lights
@@ -62,9 +55,11 @@
 - Fruits Delight
 - FTB Library (Forge)
 - FTB Ultimine (Forge)
+- Functional Armor Trim
 - Fusion (Connected Textures)
 - GeckoLib
 - Guard Villagers
+- Handcrafted
 - Immersive Aircraft [Fabric/Forge]
 - Inventory Sorter
 - Jade Addons (Forge)
@@ -88,7 +83,6 @@
 - Ocean's Delight
 - Open Parties and Claims
 - Patchouli
-- Pehkui
 - Placebo
 - Polymorph (Fabric/Forge/Quilt)
 - Puzzles Lib [Forge & Fabric]
@@ -110,7 +104,6 @@
 - Tetra's Delight
 - tetracelium
 - Tetranomicon
-- The Twilight Forest
 - Thermal Cultivation
 - Thermal Expansion
 - Thermal Foundation
@@ -118,7 +111,6 @@
 - Thermal Integration
 - Thermal Locomotion
 - Tom's Simple Storage Mod
-- Twilight's Flavors & Delight
 - Vertical Slabs Compat
 - Withering Boon for Tetra
 - Xaero's Minimap

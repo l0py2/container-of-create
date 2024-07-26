@@ -2,6 +2,7 @@
 
 ServerEvents.tags('item', event => {
 	global.removedItems.forEach(item => {
+		event.removeAllTagsFrom(item);
 		event.add('kubejs:removed', item);
 	});
 });
@@ -23,5 +24,9 @@ ServerEvents.recipes(event => {
 
 	global.removedItems.forEach(item => {
 		event.remove({ output: item });
+	});
+
+	global.removedRecipeTypes.forEach(recipeType => {
+		event.remove({ type: recipeType });
 	});
 });

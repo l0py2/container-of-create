@@ -25,42 +25,6 @@ file = "config/almostunified/unify.json"
 hash = "c9ac8f24907789308c1c044beb796ccb413fd57498268e420524a4bd8293d38c"
 
 [[files]]
-file = "config/apotheosis/adventure.cfg"
-hash = "65edeef2580f7f05d2d75cce9901fa3e1dae27da7f0d85974dd44e07ff320a00"
-
-[[files]]
-file = "config/apotheosis/apotheosis.cfg"
-hash = "5e9f9f1022e1707ed6b1930508384572fe42c659e331bfa8fe2e84f6aa2fb246"
-
-[[files]]
-file = "config/apotheosis/ench.cfg"
-hash = "557cc1b6ba1369f5d2459054cc2b9e9f91c58b9cdecb0a3023a911b435b1a9c8"
-
-[[files]]
-file = "config/apotheosis/enchantments.cfg"
-hash = "b2f4a52bf070ea78d8bc1709ded084f8aff1250b0ba301ac2df7458c66f50b8e"
-
-[[files]]
-file = "config/apotheosis/garden.cfg"
-hash = "dea4d260e6eac868297c0f9cd80545fd6b54f7344c678b89edda980a3fc5e8cf"
-
-[[files]]
-file = "config/apotheosis/names.cfg"
-hash = "bb94cff54e850d8985072c7f77cdab03a3987300a2dfdbfb43e8224a4b8ef033"
-
-[[files]]
-file = "config/apotheosis/potion.cfg"
-hash = "c5f6fd0d38e12617717494712d00a8539b2120a9bef73535d2a7821a933a496c"
-
-[[files]]
-file = "config/apotheosis/spawner.cfg"
-hash = "2754c23d924e54503f79735a93c024cadf2a1a2e1ab0fa4acc6c49d4012c5d44"
-
-[[files]]
-file = "config/apotheosis/village.cfg"
-hash = "9c06164bad9a22d779a4986dc231071e7a9d3bc8f1d7d67fa277999e510d2a78"
-
-[[files]]
 file = "config/thermal-client.toml"
 hash = "39f2b770c93956d27bee0932b50a625206043a5c3190375699bfd9829a5ec0cd"
 
@@ -106,7 +70,7 @@ hash = "9d6dab7f2d6f036d1f2152403285841138ae147545d46b83433a3222f7f947ea"
 
 [[files]]
 file = "kubejs/server_scripts/removed_items.js"
-hash = "2f532b70450ac138c25aa2f90b5e5373d28ae1fdebd2456de193a70cc3fa83c7"
+hash = "01298f5452e5fbda940977ba4d626c3a8248520803b6c5a03f9c75f2b1c60f48"
 
 [[files]]
 file = "kubejs/server_scripts/seeds_drop.js"
@@ -118,7 +82,7 @@ hash = "55ac11a3a6d2450b35b7c8f41a7d35370ee7d4cfda0d51912d584f0ce961e6da"
 
 [[files]]
 file = "kubejs/startup_scripts/global.js"
-hash = "fd16bf371b68f4caf304bbe80524c0d6708509944f9eaaefa4571168edd459de"
+hash = "25f2f6d1c6269782b02c53a67d1b9a0cd2efdd410c63da6e2da82821abb8d39b"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -151,16 +115,6 @@ hash = "c514f491ac1d393df5bcdbefef1d91a4e96c4e5cea74f78d1e8d9bf9e43dd966"
 metafile = true
 
 [[files]]
-file = "mods/apotheosis.pw.toml"
-hash = "bfff4a8be74c7d02e62cc7ba3b75183dbbff98e550dfc648d49f9f721688e730"
-metafile = true
-
-[[files]]
-file = "mods/apothic-attributes.pw.toml"
-hash = "ad85f1847b402498fdad38731c632ca0167ccbdade0c1884776aa5ee88463f28"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -173,26 +127,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
-metafile = true
-
-[[files]]
-file = "mods/ars-creo.pw.toml"
-hash = "b4cc8e095b7f51683e7938042c97cae5a281fa353a4fb421a8182b39de08825f"
-metafile = true
-
-[[files]]
-file = "mods/ars-elemental.pw.toml"
-hash = "cdc89fa5b74cf556ccd5bc191d235dc59cfb7557408d99da3527e4127a46e193"
-metafile = true
-
-[[files]]
-file = "mods/ars-nouveau.pw.toml"
-hash = "49d61232f33cbc7303469d09678a6bdac49ee54c91763d1f46bec34790a174cf"
-metafile = true
-
-[[files]]
-file = "mods/ars-scalaes.pw.toml"
-hash = "3e14c91a070694a0da371e90af636e48a57d5c0ac38406cc59b899a47e3e2219"
 metafile = true
 
 [[files]]
@@ -326,11 +260,6 @@ hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
 metafile = true
 
 [[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "c2693b6cb0bbdfbf84b166382f8612c8dc8ccc02ab5fa66d44bf7ece75f48afb"
-metafile = true
-
-[[files]]
 file = "mods/delightful.pw.toml"
 hash = "629ae402d35aaf4dffd6fdee7529495a2f4dbf24b50ac1d8ed6ebff76a0c88e4"
 metafile = true
@@ -342,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "fbbdb4e21f56c70ad71fde4c137cee08109f7a7ff00d245bef68e6dbb800e9e9"
+hash = "bd2a3ca83020447357221c18bd1fbc85312e5aa355aa4b5528d2025cae9e219f"
 metafile = true
 
 [[files]]
@@ -417,12 +346,17 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "75c061ce78d7d3f818d98bb94f9a68948aa3a1a612f3c26ade989b60b36b9657"
+hash = "a4a0adb85269712ade2399503b6365b87847cac8f34f674c535564bda184bcce"
 metafile = true
 
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
+metafile = true
+
+[[files]]
+file = "mods/functional-armor-trim.pw.toml"
+hash = "22ea1b5e9abb934484efeec9a819794f93d710702c1cb7d56bb0a11c29d83ae1"
 metafile = true
 
 [[files]]
@@ -438,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "06055ac74134577690e8f301f25111a33bdb14255e60d7e42d8276eae4746c0f"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
 metafile = true
 
 [[files]]
@@ -462,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0e4bb2f205f6a0039ffe5abc96eb13b00d74b0b3f2f6ddb9b6b4c34417898b78"
+hash = "1d6ad927d2c513a4fbc57e982a811d9a5997dadf2d67aebbae785ae3117d5d21"
 metafile = true
 
 [[files]]
@@ -548,11 +487,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
-metafile = true
-
-[[files]]
-file = "mods/pehkui.pw.toml"
-hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
 
 [[files]]
@@ -676,11 +610,6 @@ hash = "07c4fff4a24c28c775d004af359483468ff1046189c357b52e63f4fc61be1abd"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
-metafile = true
-
-[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "a2b0b8b765b7d8ef735276c0c09488353da50671f3a62684b1046a052f3a8a15"
 metafile = true
@@ -713,11 +642,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "5a7cbd5bc7dd5ac36cdb21f225e746d67bfb76523ca570afe78a5e421839040a"
-metafile = true
-
-[[files]]
-file = "mods/twilights-flavors-delight.pw.toml"
-hash = "71d07bf68cf8f1f3beb2003f3df38c3ecaff1779585e1cfaff1ba4c571ba6456"
 metafile = true
 
 [[files]]
