@@ -50,7 +50,7 @@ hash = "db1d2a632ff44a424ffb3605a58e8acb38a591b539fccb78381f07419ff88f8e"
 
 [[files]]
 file = "kubejs/server_scripts/compat/materials.js"
-hash = "2696e41a38e4bb6ed3a8caae5b983f160cda4e0bc58e9268a32e3b1a5aba1e4a"
+hash = "b7cb88e6335a526fae72cb241a3c52971015619ae6eafab27245a112d6a5a145"
 
 [[files]]
 file = "kubejs/server_scripts/compat/oil.js"
@@ -66,7 +66,7 @@ hash = "e8472d38fc4bce4b3505c137d7b4577ee0e937740ecc16cdaa97f32c1ea61613"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/qol.js"
-hash = "9d6dab7f2d6f036d1f2152403285841138ae147545d46b83433a3222f7f947ea"
+hash = "82d45896f8707ede900f8ee74323ee7fbeda004cda3fa1d1a61a2170b178f65c"
 
 [[files]]
 file = "kubejs/server_scripts/removed_items.js"
@@ -210,6 +210,11 @@ hash = "b5cf8113a1e183014c447f667676d0f9aef078c22ec195d50c58df72b8f596dd"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "9cd251a37680c6648f56c0fade3f9afb15b25adde0ce5d7cc238f6efd049afaf"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "b612a6b66dc537d6f151c23a96f9049bbe3910d675c599baf852e6b72289f09f"
 metafile = true
@@ -301,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "cf50cf5584f8d81bb9ee22aa3d55f1e62ac4fda53cd04d06c9ccdd7c521f4a71"
+hash = "253960d0037b358833c4cf4e375f9998af4440e43e97ac1d205259b733ac2f9e"
 metafile = true
 
 [[files]]
@@ -401,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1d6ad927d2c513a4fbc57e982a811d9a5997dadf2d67aebbae785ae3117d5d21"
+hash = "d2f710f7580e899373cbd872822eab30eaaedfaf35f3aa66861e4cec30823f4e"
 metafile = true
 
 [[files]]
@@ -521,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "2ebc9366a396634d88e2ca05600797edf48edd1005318256aa35e4ffc740e516"
+hash = "73f52912d24a121d62ea8c8f7ed00ac8e6ac7cec1a7253ca0cecb24d7cb9f61a"
 metafile = true
 
 [[files]]

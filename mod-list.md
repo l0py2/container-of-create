@@ -25,6 +25,7 @@
 - Corpse
 - Crafting Tweaks
 - Create
+- Create Central Kitchen
 - Create Crafts & Additions
 - Create Deco
 - Create Enchantment Industry

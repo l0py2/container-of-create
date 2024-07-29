@@ -70,6 +70,7 @@ ServerEvents.recipes(event => {
 		event.recipes.create.crushing(`thermal:${ore}_dust`, `#forge:ingots/${ore}`);
 		event.recipes.create.crushing(`thermal:${ore}_dust`, `#forge:plates/${ore}`);
 		event.recipes.create.crushing(`4x thermal:${ore}_dust`, `#forge:gears/${ore}`);
+		event.recipes.thermal.pulverizer(`thermal:${ore}_dust`, `#forge:plates/${ore}`).energy(pulverizerEnergyCost);
 		event.recipes.thermal.pulverizer(`4x thermal:${ore}_dust`, `#forge:gears/${ore}`).energy(pulverizerEnergyCost);
 	});
 

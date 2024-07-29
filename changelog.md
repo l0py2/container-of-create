@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.0
+
+### Changes
+
+- Added missing pulverizer recycling recipes to various plates
+- Added pulverizer recycling recipes to netherite tools and armor
+
+### Added mods
+
+- Create Central Kitchen
+
+
 ## 0.17.0: Decoration and simplification
 
 ### Added mods

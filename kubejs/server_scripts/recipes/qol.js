@@ -54,4 +54,9 @@ ServerEvents.recipes(event => {
 	igneousExtruder('minecraft:tuff');
 
 	event.recipes.create.haunting('architects_palette:withered_bone', 'minecraft:bone');
+
+	const pulverizerEnergyCost = 4000;
+
+	event.recipes.thermal.pulverizer(['3x minecraft:diamond', '2x minecraft:netherite_scrap'], '#forge:armor/netherite').energy(pulverizerEnergyCost);
+	event.recipes.thermal.pulverizer(['minecraft:diamond', '2x minecraft:netherite_scrap', 'thermal:sawdust'], '#forge:tools/netherite').energy(pulverizerEnergyCost);
 });
