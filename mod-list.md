@@ -1,2 +1,100 @@
 # Mod list
 
+- 'Dustrial Decor
+- Alex's Delight
+- Alex's Mobs
+- Almost Unified
+- Alternate Current
+- Amendments
+- AppleSkin
+- Architect's Palette
+- Architectury API (Fabric/Forge/NeoForge)
+- Athena
+- Balm (Forge Edition)
+- Chalk
+- Chipped
+- Citadel
+- Comforts (Fabric/Forge/Quilt)
+- Controlling
+- Corpse
+- Crafting Tweaks
+- Create
+- Create Central Kitchen
+- Create Crafts & Additions
+- Create Deco
+- Create Enchantment Industry
+- Create Slice & Dice
+- Create: Connected
+- Create: Steam 'n' Rails
+- CreativeCore
+- Creeper Overhaul
+- Curios API (Forge/NeoForge)
+- Decorative Blocks
+- Delightful
+- Embeddium
+- Embeddium/Rubidium Dynamic Lights
+- EMI
+- End's Delight
+- Enderman Overhaul
+- Entity Culling Fabric/Forge
+- Every Compat (Wood Good)
+- Farmer's Delight
+- FastFurnace
+- FastSuite
+- FastWorkbench
+- FerriteCore ((Neo)Forge)
+- FindMe
+- FramedBlocks
+- Fruits Delight
+- FTB Library (Forge)
+- FTB Ultimine (Forge)
+- Functional Armor Trim
+- GeckoLib
+- Guard Villagers
+- Handcrafted
+- Inventory Sorter
+- Jade Addons (Forge)
+- Jade 🔍
+- Kotlin for Forge
+- KubeJS
+- Leaves Be Gone [Forge & Fabric]
+- Lootr (Forge & NeoForge)
+- Miner's Delight +
+- Moonlight Lib
+- Mouse Tweaks
+- Nether's Delight
+- NetherPortalFix
+- Ocean's Delight
+- Open Parties and Claims
+- Placebo
+- Polymorph (Fabric/Forge/Quilt)
+- Puzzles Lib [Forge & Fabric]
+- Quark
+- Redstone Pen
+- Resourceful Config
+- Resourceful Lib
+- Rhino
+- Searchables
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Spice of Life Onion
+- Supplementaries
+- Supplementaries Squared
+- Tom's Simple Storage Mod
+- Vertical Slabs Compat
+- Xaero's Minimap (Fair-play Edition)
+- Xaero's World Map
+- YUNG's API (Forge)
+- YUNG's Better Desert Temples (Forge)
+- YUNG's Better Dungeons (Forge)
+- YUNG's Better End Island (Forge)
+- YUNG's Better Jungle Temples (Forge)
+- YUNG's Better Mineshafts (Forge)
+- YUNG's Better Nether Fortresses (Forge)
+- YUNG's Better Ocean Monuments (Forge)
+- YUNG's Better Strongholds (Forge)
+- YUNG's Better Witch Huts (Forge)
+- YUNG's Bridges (Forge)
+- YUNG's Extras (Forge)
+- Zeta
