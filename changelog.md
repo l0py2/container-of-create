@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.0: Back to the start
+
+This version is imcompatible with 1.0.0.
+
+---
+
 ## 1.0.0
 
 ### Changes
