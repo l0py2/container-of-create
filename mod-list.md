@@ -46,8 +46,6 @@
 - FindMe
 - FramedBlocks
 - Fruits Delight
-- FTB Library (Forge)
-- FTB Ultimine (Forge)
 - Functional Armor Trim
 - GeckoLib
 - Guard Villagers
@@ -56,7 +54,6 @@
 - Jade Addons (Forge)
 - Jade 🔍
 - Kotlin for Forge
-- KubeJS
 - Leaves Be Gone [Forge & Fabric]
 - Lootr (Forge & NeoForge)
 - Miner's Delight +
@@ -73,7 +70,6 @@
 - Redstone Pen
 - Resourceful Config
 - Resourceful Lib
-- Rhino
 - Searchables
 - Sophisticated Backpacks
 - Sophisticated Core
